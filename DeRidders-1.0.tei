@@ -1,0 +1,5271 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>De Ridders</title>
+<author key="Aristofanes" ref="https://viaf.org/viaf/20962036/">Aristofanes (446 v.Chr.&ndash;386 v.Chr.)</author>
+<respStmt><resp>Translation</resp> <name key="Muller, Hendrik Clemens" ref="https://viaf.org/viaf/15539423/">Hendrik Clemens Muller (1855&ndash;1927)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OCLC>63929962</idno>
+<idno type=PGclearance>20091224040655aristofane</idno>
+<idno type=PGDPProjectId>projectID4aba89a1c3392</idno>
+<idno type=epub-id>urn:uuid:9f4b48c2-426c-4cab-bdb8-9fbd197a143f</idno>
+<idno type=PGSrc>37828-Aristofanes-De-Ridders</idno>
+<idno type=PGnum>37828</idno>
+<date>2011-10-23</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p><hi>De Ridders</hi> (Grieks: <GR><Ippe=ic</GR>, Attisch Grieks: <GR><Ipp=hc</GR>), is de vierde komedie van Aristophanes, een meester van de oude Attische &lsquo;Oude Komedie&rsquo;. Het stuk is een satire op het sociale en politieke leven van de stad-staat Athene, en neemt in het bijzonder de oorlogsmennende populist Kléon op de hak. Deze had Aristophanes vervolgd voor het beledigen van de stad in een eerder stuk, <hi>De Babyloniërs</hi> (426 v.Chr.). De schrijver had zijn wraak aangekondigd in <hi>De Acharniërs</hi>, en deze kwam met dit stuk.
+
+<p><hi>De Ridders</hi> won de eerste prijs op het Lenaia-festival, toen het daar werd opgevoerd in februari 424 v.Chr.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">De Ridders (Grieks: <GRA><Ippe=ic</GRA>, Attisch Grieks: <GRA><Ipp=hc</GRA>), is de vierde komedie van Aristophanes, een meester van de oude Attische &lsquo;Oude Komedie&rsquo;. Het stuk is een satire op het sociale en politieke leven van de stad-staat Athene, en neemt in het bijzonder de oorlogsmennende populist Kléon op de hak. Deze had Aristophanes vervolgd voor het beledigen van de stad in een eerder stuk, De Babyloniërs (426 v.Chr.). De schrijver had zijn wraak aangekondigd in De Acharniërs, en deze kwam met dit stuk. De Ridders won de eerste prijs op het Lenaia-festival, toen het daar werd opgevoerd in februari 424 v.Chr.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Aristofanes</author>
+<title>De Ridders</title>
+<date>[1908]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=grc>Grieks</language>
+        <language id=grc-Latn>Grieks (Transcriptie)</language>
+    </langUsage>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2011-10-22 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/cover.jpg)">
+<figDesc>Oorspronkelijke voorkant.</figDesc>
+</figure>
+
+
+<pb>
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="align(center)">De Ridders van Aristofanes
+
+
+
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=tp rend="image(images/titlepage.gif)">
+<figDesc>Oorspronkelijke titelpagina.</figDesc>
+</figure>
+
+
+<titlePage>
+<docTitle><titlePart type=series>Wereld Bibliotheek</titlePart></docTitle>
+
+<byline>Onder leiding van L Simons</byline>
+
+<docTitle><titlePart>De Ridders</titlePart></docTitle>
+
+<byline>Van
+
+<lb><docAuthor>Aristofanes</docAuthor>
+
+<lb>Vertaald door
+
+<lb><docAuthor>Dr. H. C. Muller</docAuthor>
+</byline>
+
+
+<!-- [Illustration] -->
+
+<docImprint>Uitgegeven door de Maatschappij Voor Goede en Goedkoope Lectuur&mdash;Amsterdam</docImprint>
+</titlePage>
+
+
+
+
+<pb n=5>
+<div1 id=inhoud type=Introduction>
+<head>Inhoud van het stuk.</head>
+
+
+<p>Dit stuk is geschreven tegen Kléon, den volksleider der Atheners. Hij wordt voorgesteld als een pasgekochte Paphlagonische slaaf, in het huis van den heer Volk (Démos), door wien hij boven de anderen wordt voorgetrokken. Zijn twee medeslaven smeden nu tegen hem samen, en halen, volgens de woorden van een orakel, den worstverkooper Agorákritos over, tegen hem op te treden, en voortaan over het Atheensche volk te heerschen. In den vorm van een koor verschijnen nu ook de Atheensche ridders (vertegenwoordigers van den ridderstand), en smaden Kléon, die zich tracht te verdedigen door ze bij den raad (der vijfhonderd) aan te klagen van eene samenzwering tegen den staat. Er heeft een scheldpartij en een gevecht tusschen den leêrlooier en den worsthandelaar plaats, en de dichter maakt van de gelegenheid gebruik om zijn hart tegenover het publiek uit te storten, om de voorvaderen te prijzen, en door een lofgedicht op de paarden tevens den ridderstand in de hoogte te steken. De strijd der twee tegenstanders in den raad eindigt met een overwinning van den beulingventer, die het van Kléon telkens in onbeschaamdheid wint. Terwijl het koor zich hierover verheugt, wil de razende Kléon thans zijn heer <pb n=6>Volk (Démos) zelf laten beslissen. De knorrige oude heer verschijnt, en bepaalt dat de wedstrijd op de Pnyx (den Heuvel) zal plaats vinden, waartoe het ridderkoor een opwekkend lied zingt.&mdash;Nadat de heer Volk (Démos) op de steenen zitplaatsen der Pnyx plaats heeft genomen, vangt de tweede, de ernstige strijd aan. Beide volksvrienden krijgen nu beurtelings het woord, en bespreken den oorlog en de staatkundige gebeurtenissen van den dag. De een tracht den ander in flikflooierij van meester Volk en bespottelijke dreigementen te overvleugelen. Kléon wil zich door orakelspreuken redden. De worstenman heeft ze ook. Zij zullen gehaald worden, Démos zal ze aanhooren en dan beslissen; na welk tooneel het koor den naderenden val van Kléon voorspelt.&mdash;In de volgende tooneelen wint het de worsthandelaar in uitlegging der spreuken. Kléon geeft zich nog niet gewonnen, hij stelt voor heer Volk om de beurt ten eten te geven. Wie dat het best doet, zal overwinnaar zijn. Een koorlied, dat dit tooneel besluit, schildert op dichterlijke wijze het ware karakter van den veranderlijken heer Démos.
+
+<p>Thans verschijnen beiden met manden vol eten. Kléon schijnt het door fijnere spijzen te winnen, maar de beulingventer weet zich door list en overmoed den zege te verschaffen. Eindelijk geeft Kléon zich gewonnen, het orakel had hem reeds lang geleden zijn val voorspeld, en treurig en moedeloos zinkt hij in elkaar. Agorákritos, de worsthandelaar, gaat met heer Volk weg, ten einde hem door zijn kunst te verjongen. Na een tusschenzang van het koor, komen beiden geheel veranderd terug, Agorákritos als een edel vaderlander, Démos een flinke Marathonstrijder, in plaats van een zwakke grijsaard, zooals vroeger. De eerste wordt in zijn nieuw ambt bevestigd, Kléon <pb n=7>veroordeeld om aan de poorten der stad te gaan schreeuwen tegen badmeesters en lichte vrouwen.
+
+<milestone unit=tb>
+
+<p>De Ridders is opgevoerd te Athene, in Februari 424 v. C. De dichter ontving voor dit stuk den eersten prijs, en overwon zijne twee mededingers, waaronder den talentvollen blijspelschrijver Kratinos.
+
+
+
+
+<pb n=8>
+</front>
+<body>
+<div1 id=personen type=Personas>
+
+
+<castList>
+<head>Personen.</head>
+
+
+<castGroup>
+<head>Slaven van Volk (Démos).</head>
+<castItem><hi rend=sc><role id=sl1>Eerste Anonymus</role></hi> (Nikias)</castItem>
+<castItem><hi rend=sc><role id=sl2>Tweede Anonymus</role></hi> (Demosthenes)</castItem>
+</castGroup>
+<castItem><hi rend=sc><role id=pap>Een Paphlagoniër</role></hi> (Kléon).</castItem>
+<castItem><hi rend=sc><role id=wv>Agorákritos</role></hi>, worsthandelaar.</castItem>
+<castItem><hi rend=sc><role id=koor>Koor van Ridders.</role></hi></castItem>
+<castItem><hi rend=sc><role id=volk>Volk</role></hi> (Démos), een oude heer.</castItem>
+<castItem><hi rend=sc><role id=silent>Stille Personen</role></hi>: <hi rend=sc>Slaven</hi> (aan het einde van het stuk).</castItem>
+</castList>
+
+<milestone unit=tb>
+
+<p><hi rend=sc>De eerste acteur</hi> (Aristofanes zelf) speelt voor den worsthandelaar.
+
+<p><hi rend=sc>De tweede acteur</hi> speelt voor Nikias, later voor den <l>Paphlagoniër.
+
+<p><hi rend=sc>De derde acteur</hi> speelt voor Demosthenes, later voor Volk.
+
+<milestone unit=tb>
+
+<set>
+<p>Het stuk speelt te Athene, vóór het huis van Volk.
+</set>
+
+
+
+<pb n=9>
+<div1 id=a1 type=Act>
+<head>Eerste tooneel.</head>
+
+
+<stage type=setting><hi>Men ziet het huis van den ouden Volk, daarvóór een slaaf (Nikias), die pijnlijk heen en weer loopt.</hi></stage>
+
+<stage type=entrance><hi>Eerste Slaaf (Nikias), daarna Tweede Slaaf (Demosthenes).</hi></stage>
+
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l n=1>Tarátaratá, o wat een rampen, tátaratá!
+<l>Die nieuwgekochte beroerde Paphlagoniër
+<l>&bdquo;Verderven hem de goden met z&apos;n wanbeheer!&rdquo;
+<l n=5>Want sedert hij hier in het huis gedrongen is
+<l>Wordt ieder slaaf door hem geranseld, eeuwigdoor.
+</sp>
+
+<stage>(<hi>De tweede slaaf komt te voorschijn</hi>)</stage>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Die allerberoerdste Paphlagoniër, weg met hem
+<l>En met z&apos;n streken.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                    <l rend="hemistich(En met z&apos;n streken.)">Hoe maak jij het, ellendige?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Slecht, evenals jij.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                     <l rend="hemistich(Slecht, evenals jij.)">Kom dan maar hier, dan zullen wij
+<l><corr sic=",">&bdquo;</corr>Een duetje samen fluiten, Olympos nagebootst.&rdquo;
+</sp>
+
+<pb n=10>
+
+<sp who=sl1.sl2>
+<speaker>Samen</speaker> <stage rend=inline>(<hi>fluitende</hi>).</stage>
+
+<l n=10>Tu-tu, tu-tu, tu-tu, tu-tu, tutu, tutu!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Vergeefs het klagen! Doen we niet beter en zoeken eerst
+<l>Een uitkomst voor ons beiden, zonder weegeklaag?
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Wat moet er gebeuren?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                      <l rend="hemistich(Wat moet er gebeuren?)">Jij moet &apos;t zeggen.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                                          <l rend="hemistich(Wat moet er gebeuren? Jij moet &apos;t zeggen.)">Neen, zeg jij &apos;t!
+<l>Ik wil niet vechten.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                     <l rend="hemistich(Ik wil niet vechten.)">Bij Apol, ik evenmin.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l n=15 id=v15>&bdquo;Kunt gij niet raden wat mijn plicht te zeggen is?&rdquo;
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Vat moed en spreek, als jij het zegt, zeg ik het ook.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l id=v17>Ik ben geen sladood! Vertel mij hoe ik het zeggen kan
+<l>Een beetje gemaniereerd, zooals Euripides.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l id=v19>Neen, neen, neen, neen, verkoop in &apos;s hemels naam geen kool,
+<pb n=11><l n=20>Maar zoek een middel om te ontvluchten aan dien heer.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Zeg dan: we-loopen, achter elkaar, precies als ik.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>We-loo-pen, daar, ik zeg het al.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                                 <l rend="hemistich(We-loo-pen, daar, ik zeg het al.)">Zeg dan daarna
+<l>Het woordje: weg, daarachter!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                              <l rend="hemistich(Het woordje: weg, daarachter!)">Weg!
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                                   <l rend="hemistich(Het woordje: weg, daarachter! Weg!)">Zóó is het goed!
+<l>Doe of je &apos;t woordje langzaam aftrekt, en zeg eerst:
+<l n=25>We-loopen-, daarna zeg je: weg, en dan heel gauw....
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>We-loopen, weg, we-loopen weg, we<corr sic=" ">-</corr>loopen weg!
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Mooi zoo, niet waar!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                     <l rend="hemistich(Mooi zoo, niet waar!)">Jawel, bij Zeus! maar voor m&apos;n huid
+<l>Voorspelt het mij een leelijke toekomst.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                                         <l rend="hemistich(Voorspelt het mij een leelijke toekomst.)">Wel, waarom?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Omdat bij dien aftrek licht m&apos;n huid verloren gaat.
+</sp>
+
+<pb n=12>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l n=30>Het beste voor ons beiden dunkt mij nu te zijn
+<l id=v31>&bdquo;Ons neer te werpen voor een heilig godenbeeld.&rdquo;
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Welk godenbeeld? geloof jij vast dat er goden zijn?
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Welzeker!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+          <l rend="hemistich(Welzeker!)">En wat is dan jouw bewijs daarvoor?
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Omdat ik gehaat ben bij de goden. Klopt dat niet?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=35>Je overtuigt me. Maar &apos;k zoek tòch een andren weg!
+<l>Wat denk je, wil ik de zaak vertellen aan &apos;t publiek?
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Dat is niet kwaad. We vragen één ding aan &apos;t publiek,
+</sp>
+
+<stage>(<hi>tot het publiek gewend</hi>):</stage>
+
+<sp who=sl1>
+<l>Om asjeblieft te laten blijken aan d&apos;acteurs,
+<l>Als men pleizier heeft van onze verzen en ons spel.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=40>Ik zal vertellen.
+
+<stage>(<hi>tot het publiek</hi>)</stage>
+
+                  <l rend="hemistich(Ik zal vertellen.)">Weet dan, publiek, we hebben &apos;n heer,
+<l>Heel boersch en driftig, &apos;n boonenverslinder, onbesuisd,
+<l id=v42>Meneer Volk van den Heuvel, een humeurigen ouweheer,
+<l>En &apos;n beetje doof. Die kocht op d&apos;eersten van de maand
+<pb n=13><l>Een slaaf, Paphlagoniër, en leerlooier van beroep,
+<l n=45>Maar ondertusschen een verduiveld grooten schelm.
+<l>Die kerel had den aard van ons oudje snel doorgrond,
+<l>Die beroerde Paphlagoniër! vleide onzen heer,
+<l>Hij streelde en likte, hij bedroog en kamde &apos;m op,
+<l>Met allerlei flikvlooierijen sprak hij zóó:
+<l n=50>&bdquo;Mijnheer Volk, neem &apos;n bad, maar eerst nog even één proces,
+<l id=v51>&bdquo;Pak aan, en slik, en eet. Daar heb j&apos; een kwartje vast!
+<l>&bdquo;Wil ik je eten klaarzetten?&rdquo;&mdash;Dan pakt hij weg
+<l>Wat een van ons al voor z&apos;n heer heeft klaargemaakt,
+<l>En maakt zich lief. Zóó had ik eens verleden jaar
+<l n=55 id=v55>Een lekkren koek gebakken met Spartaansch beslag,
+<l>Maar hij kwam listig aangeloopen, pakte &apos;m weg,
+<l>En bood de roomtaart die ikzelf geslagen had!
+<l>Ons jaagt hij weg, en niemand anders mag zijn heer
+<l>Bedienen. Hij staat met een leêren krans op &apos;t hoofd,
+<l n=60>En jaagt, terwijl z&apos;n meester eet, de sprekers weg.
+<l>Hij zingt orakels, en de ouwe orakelt meê.
+<l>Zoodra hij hem met Moeder de Gans heeft volgepropt,
+<l>Beginnen z&apos;n kunsten. Al de slaven in het huis,
+<l>Belastert hij, en het gevolg is: slaag voor ons!
+<l n=65>De Paphlagoniër loopt voortdurend woedend rond,
+<l>En stookt en kuipt, en roept op eens bij voorbeeld uit:
+<l>&bdquo;Zie je wel hoe Hylas door mijn toedoen slagen krijgt?
+<l>&bdquo;Houdt mij te vrind, of anders ga je kapot vandaag!&rdquo;
+<l>En wij&mdash;moeten geven. Doen we &apos;t niet, de ouwe geeft
+<pb n=14><l n=70>Ons zeker dan nog tienmaal erger voor de broek.
+
+<stage>(<hi>tot den ander</hi>):</stage>
+
+<l>Dus laten wij maar gauw bedenken, beste vrind,
+<l>Wat weg ons nù te kiezen staat, en wie ons helpt.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Je vraagt, wat weg? We loopen weg, dat&apos;s ònze weg.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>O neen, want alles weet de Paphlagoniër,
+<l n=75>Zelf ziet hij toe op alles. Met z&apos;n eene been
+<l>Staat hij in Pylos, met z&apos;n ander op de Pnyx.
+<l>Z&apos;n beenen houdt hij altijd zóóver uit elkaar,
+<l>Dat feitelijk z&apos;n achterste is in Gapenburg,
+<l>Z&apos;n handen in Bedel-, en z&apos;n geest in Stelenburg.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l n=80>Dan is het best dat wij maar doodgaan!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                                       <l rend="hemistich(Dan is het best dat wij maar doodgaan!)">Laat ons zien,
+<l>Hoe wij dan sterven kunnen vol van dapperheid.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Ja zeker, hoe te sterven vol van dapperheid?
+<l>Het beste is misschien, wij drinken stierenbloed.
+<l>Het meest bevalt me de dood nog van Themistokles.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=85>Of ongemengden wijn, den goeden god ter eer,
+<l>Want daaruit volgt allicht een goed en wijs besluit.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Wat ongemengd? Dus is het jou om drank te doen?
+<l>Nam ooit een man, die dronken was, een wijs besluit?
+</sp>
+
+<pb n=15><sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Jij bent een echte geheelonthoudingsleuteraar.
+<l n=90>Durf jij beweren dat de wijn &apos;t verstand beneemt?
+<l>Is er soms iets, dat meer vermag, dan juist de wijn?
+<l>Kijk, als de menschen lekker aan het drinken zijn,
+<l>Dan worden ze rijk, ze winnen altijd hun proces,
+<l>Ze zijn gelukkig, en ze doen hun vrienden goed.
+<l n=95>Breng mij ten minste drommels gauw een kan vol wijn,
+<l>&apos;k Besproei mijn geest, en zal een groote wijsgeer zijn!
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>O hemel, wat bezorg j&apos; ons nog met jouw gedrink!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Breng &apos;t gauw, m&apos;n beste!
+
+<stage>(<hi>Nikias gaat het huis binnen</hi>)</stage>
+
+                          <l rend="hemistich(Breng &apos;t gauw, m&apos;n beste!)">Zie hoe &apos;k achterover lig!
+<l>Ben &apos;k eenmaal dronken, dan bestrooi ik het tooneel
+<l n=100>Met invalletjes en meeninkjes en plannetjes.
+</sp>
+
+<stage>(<hi>Demosthenes ligt achterover. Nikias komt terug met een kan en een beker</hi>).</stage>
+
+
+
+<div1 id=a2>
+<head>Tweede tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Gelukkig maar, dat ik niet binnen ben betrapt,
+<l>Toen ik dien wijn stal!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                        <l rend="hemistich(Toen ik dien wijn stal!)">Wat doet de Paphlagoniër?
+</sp>
+
+<pb n=16><sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Hij vrat zouten koeken, openlijk verkochte waar,
+<l>En snurkt nu dronken achterover op zijn leêr.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=105>Komaan dan, schenk me gauw wat onvermengden wijn,
+<l>Om hier te plengen.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                    <l rend="hemistich(Om hier te plengen.)">Plengen wij den goeden God!
+
+<stage>(<hi>hij vult den beker, en reikt hem aan Demosthenes</hi>)</stage>
+
+<l id=v107>Drink, drink den rooden wijn gewijd aan Pramnos&apos; god!
+</sp>
+
+<stage>(<hi>Demosthenes drinkt</hi>)</stage>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>O goede god, van u koom&apos; wijsheid, niet van mij!
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Wat is er nu nog meer te doen?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                               <l rend="hemistich(Wat is er nu nog meer te doen?)">Steel drommels gauw
+<l n=110>De orakels, die de Paphlagoniër binnen heeft,
+<l>Zoolang hij slaapt.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                    <l rend="hemistich(Zoolang hij slaapt.)">Het zal gebeuren, maar ik vrees
+<l>Dat dan op eens uit den goeden god een slechte groeit.
+</sp>
+
+<stage>(<hi>Hij gaat naar binnen</hi>)</stage>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Komaan, ik zet den kan vol wijn weer aan den mond.
+</sp>
+
+<stage>(<hi>Nikias komt met een rol terug</hi>)</stage>
+
+
+
+<pb n=17>
+<div1 id=a3>
+<head>Derde tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l n=115>De Paphlagoniër ligt ronkend neêr en stinkt,
+<l>Hij merkte niet dat ik het heilig orakel stal,
+<l>Dat hij zoo trouw bewaarde.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                            <l rend="hemistich(Dat hij zoo trouw bewaarde.)">&apos;n Slimme guit ben jij!
+<l>Geef hier, laat mij het lezen. En schenk jij mij in,
+<l>Een beetje gauw. Laat mij eens zien, wat staat er in?
+<l n=120>O gulden spreuken! reik mij gauw den beker aan.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Laat zien, wat zegt &apos;t orakel?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                               <l rend="hemistich(Laat zien, wat zegt &apos;t orakel?)">Schenk me nóg eens in.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Is dat één van de spreuken &bdquo;Schenk me nòg eens in?&rdquo;
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l id=v123>O Bakis!
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+         <l rend="hemistich(O Bakis!)">Wat is er?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                    <l rend="hemistich(O Bakis! Wat is er?)">Kerel, schenk me nòg eens in!
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Ik denk dat die Bakis nog al diep in &apos;t glaasje keek.
+</sp>
+
+<pb n=18><sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=125>Vervloekte Paphlagoniër, heb je dit bewaard,
+<l>&apos;t Orakel vreezend dat je zelf betrof?
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                                       <l rend="hemistich(&apos;t Orakel vreezend dat je zelf betrof?)">Hoe dan?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Omdat er duidelijk staat, dat hij verloren is.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Wat zeg je?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+            <l rend="hemistich(Wat zeg je?)">Kijk eens, duidelijk staat het in de spreuk
+<l>Dat er allereerst een vlashandelaar is opgestaan,
+<l n=130>Die al de zaken van den staat besturen zal.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Eén handelaar dus. En wat komt er dan? Spreek op.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Een schapenhand&apos;laar zal daarna de tweede zijn.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Twéé handelaars dus. Wat gebeurt er dan met dien?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Hij zal besturen, tot er nòg een beroerder vent
+<l n=135>Dan hij zal komen, en dan gaat hij op de flesch.
+<l>Dán komt er een hand&apos;laar in huiden, een Paphlagoniër,
+<l>Een dief, een schreeuwer, met &apos;n stem als &apos;n waterval.
+</sp>
+
+<pb n=19><sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Moet dan de schapenverkooper weêr te gronde gaan
+<l>Door een leêrverkooper?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                        <l rend="hemistich(Door een leêrverkooper?)">Zeker.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                               <l rend="hemistich(Door een leêrverkooper? Zeker.)">Wat een ongeluk!
+<l n=140>Zou er soms niet nòg een andre verkooper ergens zijn?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Er is er nog één, die kerel heeft een prachtig vak.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Wat voor een beroep?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                     <l rend="hemistich(Wat voor een beroep?)">Moet ik het zeggen?
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+                                         <l rend="hemistich(Wat voor een beroep? Moet ik het zeggen?)">Ja, bij Zeus!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Een worstverkooper zal het zijn, die hèm verdrijft.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Een worstverkooper? Bij Poseidon, wat een vak.
+<l n=145>Waar zullen wij dat mannetje eens zoeken gaan?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Wij gaan hem zoeken!
+</sp>
+
+<stage>(<hi>Er verschijnt een worstverkooper of beulingventer, met een plank, en worsten dragende</hi>).</stage>
+
+<pb n=20><sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+              <l rend="hemistich(Wij gaan hem zoeken!)">Kijk, daar komt hij waarlijk aan,
+<l>Hoe godstoevallig! naar de markt!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                                  <l rend="hemistich(Hoe godstoevallig! naar de markt!)">O beste vrind,
+<l>O worstverkooper, heerlijke kerel, kom bij ons,
+<l>Kom op &apos;t tooneel, en red geheel de stad en ons!
+</sp>
+
+
+
+<div1 id=a4>
+<head>Vierde tooneel.</head>
+
+<stage type=entrance><hi rend=ex>Dezelfden. De worstverkooper.</hi></stage>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=150>Wat is er? Waarom roep je?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                           <l rend="hemistich(Wat is er? Waarom roep je?)">Kom toch hier, en hoor
+<l>Hoe&apos;n welgelukzalig en voorspoedig man je bent.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>Zeg, neem jij hem maar dadelijk z&apos;n worstplank af.
+<l>Vertel hem dàn, wat het orakel hem voorspelt,
+<l>En ik ga op post staan bij den Paphlagoniër.
+</sp>
+
+<stage type=exit>(<hi>Nikias af</hi>)</stage>
+
+
+<div1 id=a5>
+<head>Vijfde tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Demosthenes. De worstverkooper.</hi></stage>
+
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=155>Kom, leg jij eerst maar je bagaadje op den grond,
+<l>En groet daarna eerbiedig d&apos;aarde en de goôn.
+</sp>
+
+<pb n=21>
+
+<sp who=wv>
+<speaker>Worstverkooper</speaker> <stage rend=inline>(<hi>legt z&apos;n boel neer</hi>).</stage>
+
+<l>Ziedaar. Wat is er?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                    <l rend="hemistich(Ziedaar. Wat is er?)">O gelukkige, rijke man!
+<l>In &apos;t heden niets, maar morgen overmachtig groot!
+<l id=v159>&bdquo;O hertog van het zalige Atheensche volk!&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=160>Laat jij me liever darmen schoonmaken, beste vrind,
+<l>En beuling verkoopen. Waarom hou je me voor den gek?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Wat voor een beuling, gekke kerel? Kijk &apos;t publiek!
+<l>&bdquo;Ziet gij geschaard der volken rijen?&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                       <l rend="hemistich(&bdquo;Ziet gij geschaard der volken rijen?&rdquo;)">Ja, dat zie &apos;k.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l>&bdquo;Van al die scharen zult gij zelf de hertog zijn,&rdquo;
+<l n=165>En van de markt, en van de havens, en de Pnyx,
+<l>Den raad zal je trappen, klein zal je houden de generaals,
+<l>En binden en boeien, en vrouwen pakken op &apos;t stadhuis.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+    <l rend="hemistich(Ik?)">Jij, welzeker! je ziet nog niet eens je heele macht.
+<pb n=22><l>Stap op het tooneel, ga op je eigen worstplank staan.
+<l n=170>Zie d&apos;eilanden die in een kring gelegen zijn.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper</speaker> <stage rend=inline>(<hi>doet dit</hi>).</stage>
+
+<l>Die zie ik.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+            <l rend="hemistich(Die zie ik.)">De handelsplaatsen en de schepen ook?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik zie ze.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+           <l rend="hemistich(Ik zie ze.)">Ben je dan niet een overgelukkig man?
+<l>Kijk nu eens met je rechteroog naar Karië,
+<l>En met je linker moet je tot Karthago zien.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=175>Ik verrek m&apos;n oogen, noem je dat soms m&apos;n geluk?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Dat niet, maar alles wordt op ùwen wenk verkocht.
+<l>Gij wordt in waarheid, zóó als &apos;t oud orakel zegt,
+<l>Een man van aanzien.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                     <l rend="hemistich(Een man van aanzien.)">Zeg mij eerst, hoe zal ik ooit
+<l>Van aanzien worden, als ik niets dan worst verkoop?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=180>Juist dàt is de reden dat j&apos; een man van aanzien wordt,
+<l>Je komt van de markt, je fopt de menschen, bent brutaal.
+</sp>
+
+<pb n=23><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Maar &apos;k vind niet dat ik zelf zoo&apos;n aanzien waardig ben.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Wat zeg je? vindt je zelf niet dat j&apos; een rang verdient?
+<l>Het komt me voor dat jij jezelven heel goed kent.
+<l n=185>Ben je soms van nette ouders?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                              <l rend="hemistich(Ben je soms van nette ouders?)">Bij de goden, neen!
+<l>Dat zou &apos;k je kunnen leeren....
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                                <l rend="hemistich(Dat zou &apos;k je kunnen leeren....)">Zalig is dan uw lot,
+<l>Dan zijt g&apos; uitnemend voor het staatsbestuur geschikt.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Maar beste man, &apos;k bezocht niet eens de lagere school,
+<l>De letters ken ik, maar ik schrijf ze als een smid.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=190>Het eenige nadeel is dat je nog een beetje schrijft!
+<l>Om &apos;t volk te leiden heeft men nù geen lagere school
+<l>Meer noodig, en ook geen menschen meer van goed fatsoen,
+<l>Wèl dommen en schaamteloozen! Weiger niet het lot,
+<l>Dat in &apos;t orakel door de goôn is voorbeschikt.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=195>Hoe zijn de woorden van &apos;t orakel?
+</sp>
+
+<pb n=24><sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                            <l rend="hemistich(Hoe zijn de woorden van &apos;t orakel?)">Bij de goden! mooi,
+<l>Heel dubbelzinnig en heel wijsgeerig is voorspeld:
+<l id=v197>&bdquo;Doch als de aadlaar van leêr, kromsnavelig, met zijn gebekte
+<l>&bdquo;Den bloeddorstigen draak, den heer Domkop, vreeslijk gepakt heeft,
+<l>&bdquo;Dan gaat meteen ook uw stank, Paphlagonische looier, verloren,
+<l n=200>&bdquo;Aan de verkoopers van worst schenkt macht en aanzien de godheid,
+<l>&bdquo;Wen ze niet liever besluiten om steeds dóór worst te verkoopen.&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Slaat dàt nu op mij? leg dat ereis uit, m&apos;n beste vrind.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>&bdquo;Adelaar van leêr&rdquo; is de Paphlagoniër dien je kent.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En wat is &bdquo;kromsnavelig?&rdquo;
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                          <l rend="hemistich(En wat is &bdquo;kromsnavelig?&rdquo;)">Dat heeft ongeveer den zin,
+<l n=205>Dat hij met zijn handen, als een snavel, alles gapt.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En wat is de &bdquo;draak?&rdquo;
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                      <l rend="hemistich(En wat is de &bdquo;draak?&rdquo;)">O, dat is duidelijk als de zon.
+<l>Een draak is lang, en ook een worst is altijd lang,
+<pb n=25><l>En bloed verslindt een worst zoowel als iedre draak.
+<l>Hij meent dus dat de draak den leêren adelaar
+<l n=210>Zal overwinnen, &bdquo;wen hij niet geeft om zijn geklets.&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat <hi rend=ex>wen</hi>, daar kan ik aan <hi rend=ex>wennen</hi>! maar ik sta verbaasd,
+<l>Hoe iemand als ik het heele volk regeeren kan!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Een makkelijk werkje! Ga maar door met je beroep!
+<l>Haal alle zaken, of het een worst is, door mekaar,
+<l n=215 id=v215>Ja alles, en geef altijd maar aan &apos;t volk zijn vet,
+<l>Dan houdt je het zoet met woordjes uit de keukentaal.
+<l>Volksleiderstalenten heb je overigens genoeg:
+<l>Een stem als een oordeel, lage komaf, aan de markt gewend,
+<l>Dat &apos;s alles wat er voor een staatsman noodig is!
+<l n=220>Het Delfisch orakel, en de andre, stemmen saam.
+<l>Zet gauw een krans op, en offer aan God Domkop nu!
+<l>Overwin dien andren kerel.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                           <l rend="hemistich(Overwin dien andren kerel.)">Maar wie staat mij bij
+<l>In dit gevecht? de goede standen zijn bang voor hem,
+<l>En &apos;t arme volk, dat rilt en beeft al voor z&apos;n stem.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=225>Er zijn nog duizend ridders, heele flinke lui,
+<l>Die haten hem, en helpen ù door dik en dun,
+<pb n=26><l>Dan verder alle burgers die ontwikkeld zijn,
+<l>En van het publiek hier ieder die fatsoenlijk is,
+<l>En ik met hen, en de godheid zelf zal mèt u zijn.
+<l n=230 id=v230>Wees maar niet bang, z&apos;n tronie is niet nagevolgd!
+<l>Geen van de kappers heeft, uit pure vrees voor hem,
+<l>Z&apos;n masker durven maken. Toch zal iedereen
+<l>Hem gauw herkennen. Het publiek is slim genoeg.
+</sp>
+
+<stage>(<hi>De Paphlagoniër komt naar buiten</hi>).</stage>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>O wee, o wee, daar komt de Paphlagoniër.
+</sp>
+
+
+<div1 id=a6>
+<head>Zesde tooneel.</head>
+
+<stage type=entrance><hi rend=ex>Dezelfden. De Paphlagoniër.</hi></stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=235>Je zult er geen pleizier van hebben, bij de goôn.
+<l>Dat jullie tegen &apos;t volksbestuur zoo samenzweert!
+<l id=v237>Wat moet hier toch die beker uit Chalkidike?
+<l>Jelui wilt zeker den afval der Chalkidiërs?
+<l>Naar den donder, naar den bliksem, ontrouw slaventuig.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf<corr>.</corr></speaker>
+
+<stage>(<hi>tot den worsthandelaar</hi>)</stage>
+
+<l n=240>Wat vlucht je? waarom blijf je niet? o edele
+<l>Koopman in worsten laat den staat niet in den steek!
+
+<stage>(<hi>tot het koor:</hi>)</stage>
+
+<l id=v242>Komt te hulp, o eedle ridders. Simon en Panaetios!
+<l>Nu is &apos;t tijd, rukt allen aanstonds naar den rechtervleugel op!
+
+<stage>(<hi>tot den worstverkooper</hi>)</stage>
+
+<pb n=27><l>Zie, men nadert. Op, verdedig u en keer terstond weerom!
+<l n=245>Uit dien stofwolk kunt gij leeren dat men oprukt allen saam!
+<l>Kom te hulp dan, en verdrijf hem, jaagt hem samen op de vlucht!
+</sp>
+
+<stage>(<hi>De worsthandelaar keert terug, en valt met Demosthenes samen den Paphlagoniër aan, terwijl het koor de dansplaats binnentrekt</hi>).</stage>
+
+<stage type=enter>(<hi>Het koor van 24 ridders trekt, in twee deelen gesplitst, de dansplaats binnen</hi>).</stage>
+
+
+
+<div1 id=a7>
+<head>Zevende tooneel.</head>
+
+<stage type=entrance><hi rend=ex>De vorigen. Het koor.</hi></stage>
+
+
+<sp who=koor>
+<speaker>Koor</speaker> <stage rend=inline>(<hi>eerste halfkoor</hi>).</stage>
+
+<l>Sla den schelm, den grooten deugniet, ridderstandbezwadderaar,
+<l>Tollenaar, slokop en vraatziek, alverslinder als een kolk,
+<l>Ja, een schelm, een schelm der schelmen; dikwijls dient dat woord gezegd,
+<l n=250>Sla hem, geef hem op zijn baadje, en gooi alles op den kant,
+<l>Haat hem, zooals wij hem haten, val hem aan en schreeuw maar toe,
+<l>Laat hem niet den dans ontsnappen, want geen uitweg is hem vreemd,
+<l id=v254>En hij zal zijn biezen pakken als de slimme Eukrates.
+</sp>
+
+<sp who=pap>
+<speaker>De Paphlagoniër.</speaker>
+
+<l n=255>O, mijn beste heeren rechters, kwartjesvinders zooals ik,
+<pb n=28><l>Die ik help aan uw bestaantje, &apos;t zij ik recht of onrecht schreeuw,
+<l>Komt te hulp, ik word geslagen door een samenzweerderstroep!
+</sp>
+
+<sp who=koor>
+<speaker>Koor</speaker> <stage rend=inline>(<hi>tweede halfkoor</hi>).</stage>
+
+<l>Dat verdien je, staatsgeldvreter, vóór het lot nog heeft beslist!
+<l>Jij, die alle ambtenaren uitknipt als een stuk citroen,
+<l n=260>En bevoelt als waren &apos;t vruchten, rijp of onrijp naar den tast,
+<l>En als je iemand hebt gevonden, die bij de bondgenooten hoort,
+<l>Haal j&apos; &apos;m uit den Chersonesos, en je pakt terstond hem aan,
+<l>Tot j&apos; &apos;m onder hebt gekregen en geheel vernietigd hebt!
+<l>Jij! je aast op alle burgers, die nog dommer zijn dan jij,
+<l n=265 id=v265>Mits ze rijk zijn, niet fatsoenlijk, komen ze in je kraam te pas!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ga jelui mij óók vervolgen? Juist voor jullie krijg ik slaag!
+<l>Want ik wou juist voor gaan stellen, dat het méér dan billijk is
+<l>Om een standbeeld op te richten voor den dapp&apos;ren ridderstand.
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Wat een zwetser, wat een draaier! Zie je niet, hoe hij ons fopt,
+<l n=270>Ons trakteert als oude kerels, altijd zich in bochten draait?
+<pb n=29><l>Mocht hij even overwinnen, toch is &apos;t gauw met hem gedaan,
+<l>Want wij stooten als de bokken, en verplett&apos;ren hem het been.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Staat, ik roep u ten getuige, hoe &apos;k door beesten word vertrapt.
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Schreeuw maar door, dat is het middel dat je macht schonk in den staat!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=275>Ik zal schreeuwen, door mijn schreeuwen drijf ik jullie op de vlucht!
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Schreeuw eens harder dan deze kerel, dan verdien je een hoera!
+<l>Maar kan hij brutaler schreeuwen, dan wacht ons de zegekoek!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Deze kerel? Ik verdenk hem, &apos;k breng hem daadlijk voor &apos;t gerecht,
+<l id=v279>Want hij levert aan den vijand drijvend materiaal van soep!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=280>Ik zal jòu voor den rechter brengen, jij die met een leege maag
+<l>Op &apos;t stadhuis komt, en er uitloopt met een dikken vollen buik!
+</sp>
+
+<pb n=30><sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>O, hij smokkelt verboden waren, zeker brood en vleesch en visch!
+<l>Perikles had dát niet noodig, die gaf nooit zoo&apos;n ergernis.
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Jij gaat zeker naar den bliksem.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=285>Als jij schreeuwt, ik driemaal harder.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik zal schreeuwen dat je omvalt.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik zal buldren dat je dondert.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>&apos;k Klaag je aan, als je gaat dienen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Als een hond laat ik je grienen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=290>Ik ontmasker je als zwetser.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik zal jou het beentje lichten.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Heb je lef om m&apos; aan te kijken?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Wat? mijn ouders zijn jou gelijken!
+</sp>
+
+<pb n=31><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik vermoord je, als je durft kikken.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=295>&apos;k Stop je in mest en laat je stikken.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik ben &apos;n dief&mdash;durf jij &apos;t beweren?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik kan stelen&mdash;dieven leeren&mdash;
+<l>En nog valsche eeden zweeren!
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Op mìjn terrein durf jij je wagen?
+<l n=300>&apos;k Zal je voor den raad doen dagen,
+<l>&apos;k Zal je met belasting plagen,
+<l>Dat je je leugen en valschen eed,
+<l>Alles uit je darmen zweet!
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Aaklige vent,
+<l>Dief zonder end,
+<l>En schreeuwer, je bent&mdash;mislijk!
+<l n=305>Jou en je kliek
+<l>Kent het publiek,
+<l>Je schreeuwt je nog ziek&mdash;gewislijk!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l>Ambtenarentractementen
+<l>En belastingdocumenten,
+<l>Advokaten en kliënten,
+          <l rend="indent(8)">Weten hoe brutaal je bent,
+<l>Van je schreeuwen en je knoeien,
+<pb n=32><l>Je bedillen en bemoeien,
+<l>Doe j&apos; Athene overvloeien,
+          <l n=310 rend="indent(8)">Alles raakt hier op z&apos;n end.
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Jij hebt met je stemgebulder heel Athene leeggepompt,
+<l>En gelijk een visscher azend kijk je naar belasting uit!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>&apos;k Ben allang reeds op de hoogte, wie mij dat toch heeft gelapt.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=315>Zooals jij in &apos;t schoenenlappen, zoo ben ik in &apos;t worstenvak.
+<l>Jij die huid van slechte beesten handig te versnijden weet
+<l>En dan rondvent aan de boeren, of het dikke zolen zijn,
+<l>Voordat één dag is verloopen, is het leêr al uitgezet!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Zeus zal m&apos;n getuige wezen, dat heeft hij ook mij gelapt,
+<l n=320>Al de lui van mijn gemeente en m&apos;n vrienden lachten m&apos; uit,
+<l id=v321>Vóór ik Pergase bereikte zwom ik reeds in iedren schoen.
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Kléon! je bent
+<l>Zoo&apos;n slimme vent,
+<l>Want &apos;t is bekend
+<l>Sinds eeuwen:
+<pb n=33><l>Nu en altijd,
+<l>Gepeupel leidt
+<l>Brutaliteit
+<l n=325>En schreeuwen!
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Door je invloed in Athene melk je iedren vreemdeling,
+<l id=v327>Als hij &apos;t ziet, vergaat van woede &apos;t zoontje van Hippódamos.
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Maar er is een vent gekomen,
+<l>Die voor jou niet hoeft te schromen,
+<l>Die jou spoedig heeft genomen,
+        <l rend="indent(8)">Veel gemeener nog dan jij,
+<l n=330>Ik verheug mij in zijn boosheid,
+<l>Want door listen en door loosheid,
+<l>En door sluwe schaamteloosheid
+        <l rend="indent(8)">Dringt hij jou geheel op zij!
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Kom jij nu, ridder van de worst, en toon je fluks een kerel,
+<l>Toon ook dat een beschaafde man nu niets meer heeft te zeggen.
+</sp>
+
+
+
+<div1 id=a8>
+<head>Achtste tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=335>Verneemt dan allen uit mijn mond, wat dát is voor een burger!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Laat mij toch gaan.
+</sp>
+
+<pb n=34><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                <l rend="hemistich(Laat mij toch gaan.)">Ik zeker niet, &apos;k stam uit Jan Rap als uwees!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Als hij niet buigt, zeg dan er bij dat j&apos; ouders ook Jan Rap zijn!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Laat mij nu los.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                 <l rend="hemistich(Laat mij nu los.)">Bij Zeus!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+                           <l rend="hemistich(Laat mij nu los. Bij Zeus!)">Bij Zeus!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                     <l rend="hemistich(Laat mij nu los. Bij Zeus! Bij Zeus!)">Neen, nooit, bij god Poseidon!
+</sp>
+
+<stage>(<hi>Zij vechten</hi>)</stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=340>Ik barst van woede en ergernis.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                <l rend="hemistich(Ik barst van woede en ergernis.)">Dàt zal ik je zelfs niet toestaan!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Sta, bij de goden, hem toch toe van ergernis te stikken!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wie geeft je zoo&apos;n brutaliteit om tegen mij te spreken?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Omdat ik spreken kan als jij, en lekkre soep kan koken.
+</sp>
+
+<pb n=35><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Jij spreken? weet je wat je kan? wanneer er in je handen
+<l n=345>Een stuk rauw vleesch gevallen is, dàt kan je goed behandelen.
+<l>Met jou is het precies gegaan als met de meeste menschen.
+<l id=v347>Als jij tegen een mindren man &apos;n procesje hebt gewonnen,
+<l>Dan loop je nachten over straat en leutert tegen je zelven,
+<l>Drinkt niets dan water, schettert hard, verveelt je beste vrienden,
+<l n=350>En denkt dan dat je een spreker bent. Je bent een groote domkop.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En wat heb jij gedronken dan, zoodat geheel Athene
+<l>Z&apos;n mond moet houden en alleen naar jou geschetter luistert?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wie stel je over tegen mij? &apos;k Ben iemand die in staat is
+<l>Om na een lekker vischdiner, met echten wijn beklonken,
+<l n=355 id=v355>De veldheers, die in Pylos zijn, als snollen te behandelen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik kan &apos;n heelen ossenmaag met darmen van een varken
+<l>Inslokken, en het vet daarna, met ongewasschen handen,
+<pb n=36><l>En dàn nog al de redenaars, en Nikias, overdond&apos;ren.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Al wat je zegt bevalt me wel, maar één ding valt me tegen,
+<l n=360>Dat als jij aan de regeering komt, jij &apos;t vet alleen wilt slurpen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l id=v361>Jij zult geen snoeken eten, en de Milesiërs verjagen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik eet een beest z&apos;n pooten op, en pacht dan zilvermijnen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik spring op eens, en met geweld breng ik den raad ten onder.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik stop je achterste als een worst, en sla je op je donder.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=365>Jou pak ik eerst bij &apos;t achterste, en sleur je dan voorover.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Dan pak je zeker mij meteen, jou godvergeten roover.
+</sp>
+
+<stage>(<hi>Zij vechten</hi>)</stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>&apos;k Laat je krom sluiten in de boeien.
+</sp>
+
+<pb n=37><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Als deserteur laat ik je bloeien.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik zal je looien met gemak.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=370>Ik zal je villen als een zak.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>&apos;k Hang je op aan huid en velletjes.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik hak je tot frikadelletjes.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Al je oogharen pluk ik uit.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik snijd je den krop uit je snuit.
+</sp>
+
+<sp who=sl1>
+<speaker>Eerste Slaaf.</speaker>
+
+<l n=375 id=v375>Behandel hem, goddorie, maar
+<l>Precies of hij een varken waar&apos;!
+<l>Sla hem een spijker in den snuit,
+<l>En haal daarna zijn tong er uit,
+<l>Wanneer aldus het heele dier
+<l n=380>Gespalkt is op de kunstmanier,
+<l>Dan onderzoek je of een wrat
+<l>Te zien is op zijn varkensgat.
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Leve de man,
+<l>Heet op de pan,
+<l>Die hèm nog kan
+        <l rend="indent(8)">Bedwingen,
+<pb n=38><l n=385>Die door zijn mal
+<l>Gebrul en gebral
+<l>Kléon nog zal
+        <l rend="indent(8)">Verdringen!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l>&apos;t Was geen kwaad experimentje,
+<l>Om een nòg grooter schreeuwtalentje,
+<l>Om een nòg gemeener ventje
+        <l rend="indent(8)">Uit te sturen in den strijd&mdash;
+<l>Kom, en sla hem op zijn baadje,
+<l>Geef hem niet het halve maatje,
+<l>Want de dwingland in ons staatje
+        <l rend="indent(8)">Heeft het bijna afgeleid.
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Want wanneer je hem maar éénmaal in de worsteling verzwakt,
+<l n=390>Toont hij zich een laffen kerel, o ik ken z&apos;n waren aard.
+<l>En zoo&apos;n lafaard heeft waarachtig nog z&apos;n heele leven lang
+<l id=v392>Voor een flinken vent gegolden! hij sneed riemen van andermans leêr!
+<l>Hij houdt nu de korenaaren van &apos;t vijandelijk korenveld
+<l id=v394>Hier gevangen, en steekt later al hun losgeld in z&apos;n zak.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=395>Ik ben niet bevreesd voor jullie, zoolang als de raad nog leeft,
+<l>En zoolang van alle spelers Volk het domste bakkes heeft.
+</sp>
+
+<pb n=39><sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Met z&apos;n gesnoef
+<l>Wil ons de boef
+<l>Nù nog den loef
+    <l rend="indent(4)">Afsteken!
+<l>Glad als een aal,
+<l>Altijd brutaal
+<l>Is nog zijn taal
+    <l rend="indent(4)">Gebleken!
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l n=400 id=v400>&apos;k Haat je erger dan de dekens, waar Kratinos zich in bevuilt,
+<l>Erger dan de slechte drama&apos;s, waar vriend Morsimos in huilt!
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+    <l rend="indent(4)">Jij, die als een ontaarde bij
+    <l rend="indent(4)">Kruipt en gonst in alle zaken,
+    <l rend="indent(4)">En je honing tracht te maken
+    <l rend="indent(4)">Uit de bloem der omkooperij!
+<l>Moge &apos;t slechtverworven eten op &apos;t stadhuis ook slecht je smaken!
+    <l n=405 rend="indent(4)">Mocht het lot ons zóó iets schenken,
+    <l rend="indent(4)">Mocht jij raken in den druk,
+    <l id=v407 rend="indent(4)">Dan zou ik een lied bedenken:
+    <l rend="indent(4)">&bdquo;Laat ons klinken, laat ons drinken,
+    <l rend="indent(4)">Laat ons juichen van geluk!&rdquo;
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Ja, &apos;k wed, de zoon van Bulias, de meisjesgek op jaren,
+<l>Spant jou ter eere nog Apol en Bacchos op z&apos;n snaren.
+</sp>
+
+
+
+<pb n=40>
+<div1 id=a9>
+<head>Negende tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Mij zult ge, bij Poseidon, nooit in driestheid overwinnen,
+<l n=410>Of ik zal geen vergaadring meer met offerdienst beginnen!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik zweer bij de oorvijgen, die ik als jongen talrijk
+<l>Gekregen heb, en bij het mes waar &apos;k mee kan bekkesnijden,
+<l>Dat ik het van je winnen zal, want anders was ik zeker,
+<l>Met hondebrokken opgevoed, zoo&apos;n kerel niet geworden!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=415>Met hondebrokken opgevoed? Ik draag hier al sinds tijen
+<l>Den eernaam Hondsvot, en durf jij een hondsvot gaan bestrijen?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik ben een boef van d&apos; echte soort, als jongen al een boefje,
+<l>Want toen heb ik de slagers al bestolen met een foefje:
+<l>&bdquo;Kijk, zie je daar die zwaluw niet? &apos;t wordt lente, boerenkinkel!&rdquo;
+<l n=420>Riep ik, en keken zij, dan stal ik &apos;t vleesch hun uit den winkel.
+</sp>
+
+<pb n=41>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Jij bent een handig brokje vleesch, en wijs en onverschrokken,
+<l>Als d&apos;ander slâ in &apos;t voorjaar eet, steel jij de voorjaarsbrokken!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat deed ik meestal ongemerkt, maar snapten mij die heeren,
+<l>Dan ging ik, in elkaar gehurkt, bij hoog en laag aan &apos;t zweeren;
+<l n=425>Zoodat, toen eens een spreker zag, hoe ik ze had bedrogen,
+<l>Hij uitriep: &bdquo;Kijk, die jongen wordt nog eens bij &apos;t volk een hooge!&rdquo;
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Dat heeft hij drommels goed voorspeld, en &apos;t was dan ook geen wonder,
+<l>Je was meineedige en een dief, en &apos;t vleesch zat in je donder!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik leer je d&apos; onbeschaamdheid af, eerst jou en dan den ander,
+<l n=430>Ik stort te voorschijn als een groot en schitterend tegenstander,
+<l>En &apos;k zal de aarde en de zee ondersteboven keeren!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik haal eerst mijn worsten in, die jij zou kuljoneeren,
+<l id=v433>En daarna vaar ik tegen je uit en zal je mores leeren.
+</sp>
+
+<pb n=42><sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Wanneer je scheepje lek mocht gaan, zal ik op &apos;t ruim wel passen!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=435>Geloof jij dat je ongestraft, bij Demeter! vijf talenten
+<l>Van d&apos;arme Atheners stelen kunt?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Pas op en vier je schoot wat!
+<l>Hij blaast als de noordoostenwind! Straks regent het processen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Jij hebt uit Potidaea tien talenten vast gestolen!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wat zou dat? aas jij soms op één, om dan je mond te houen?
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf</speaker>
+
+<stage>(<hi>tot den Paphlagoniër</hi>).</stage>
+
+<l n=440>Hij stak er graag één in zijn zak.
+
+<stage>(<hi>tot den worsthandelaar</hi>)</stage>
+
+                                   <l rend="hemistich(Hij stak er graag één in zijn zak.)">Laat schieten maar je touwen!
+<l>De eerste storm is nu bedaard!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Jij gaat met een vierdubbel proces
+<l>Van honderd talenten op de flesch.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Als deserteur krijg je twintig er bij,
+<l>En duizend wegens oplichterij!
+</sp>
+
+<pb n=43><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=445>Jij bent gesproten uit een geslacht,
+<l>Dat door de goden is veracht!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Jouw grootvader liep hier in &apos;t land
+<l id=v448>Gewapend achter &apos;n dwingeland!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Mijn grootvaâr? van wien stam ik af?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Van vrouwendienaars, laag en laf!
+<l>Want ik weet zeker dat hij was
+<l>In dienst van de vrouw van Hippias,
+<l>Haar naam? herinner ik mij wel,
+<l>Die klonk zoo iets als &bdquo;juffrouw Vel.&rdquo;
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=450>Je bent een schelm.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Je bent een schurk.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Sla flink er op.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër</speaker> <stage rend=inline>(<hi>schreeuwende</hi>).</stage>
+
+<l>Mijn arme kop,
+<l>&apos;k Val in een samenzweerdersstrop!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Je ranselt hem aan allen kant,
+<l>Met darmen en met ingewand,
+        <l rend="indent(8)">Zoodat het kraakt en knettert,
+<pb n=44><l n=455>Zóó wordt het best een vent gestraft,
+        <l rend="indent(8)">Die altijd schreeuwt en schettert!
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>O allerdapperste stuk vleesch, o held der heldenscharen,
+<l>Voor ons en voor geheel den staat de redder in gevaren,
+<l>Wat heb je mooi, met mannentaal en flink, dien man verslagen,
+<l n=460>Hoe kan mijn vreugd genoegzaam van uw eer en roem gewagen?
+</sp>
+
+
+
+<div1 id=a10>
+<head>Tiende tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Het was me niet ontgaan, dat jullie de heele zaak
+<l id=v462>Heel netjes in elkaar getimmerd hadt,
+<l>Maar ik wist wat te beklinken en te spijkeren was.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=465>&apos;t Ontgaat me óók niet, al wat jij in Argos doet,
+</sp>
+
+<stage>(<hi>tot het publiek:</hi>)</stage>
+
+<sp who=wv>
+<l>Hij maakt ons schijnbaar het volk van Argos tot bondgenoot,
+<l>Maar steunt daar op eigen houtje de Lacedæmoniërs.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf</speaker>
+
+<stage>(<hi>tot den worstverkooper</hi>)</stage>
+
+<l>Kan jij ook niet tegen hem spreken als een timmerman?
+</sp>
+
+<pb n=45><sp who=wv>
+<speaker>Worstverkooper</speaker>
+
+<stage>(<hi>tot den Paphlagoniër</hi>).</stage>
+
+<l>Ik weet wel, hoe die dingen samengeklonken zijn,
+<l>Zij worden bedisseld ten bate van de gevangenen!
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=470>Goed zoo! spreek jij van &bdquo;smeden&rdquo; als hij &bdquo;spijkeren&rdquo; zegt!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>De mannen van daar, die hameren mee aan &apos;t zelfde slot.
+<l>Al biedt je mij nóg zooveel goud of zilvergeld,
+<l>Al stuur je je vrienden, toch verhinder je mij niet
+<l>Om dat bekend te maken aan &apos;t Atheensche volk.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=475 id=v475>En ik zal daadlijk mij begeven naar den raad,
+<l>En daar vermelden hoe gij allen samenzweert,
+<l>En hoe gij &apos;s nachts hier op den burg tezamenkomt,
+<l>En hoe gij aan den koning der Persen ons verraadt,
+<l>En&mdash;hoe j&apos;ons kaas wilt geven uit Boeotië!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=480>Hoe duur zou wel die kaas zijn uit Boeotië?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Bij Herkules! &apos;k zal maken dat je onderligt!
+</sp>
+
+<stage type=exit>(<hi>Af.</hi>)</stage>
+
+
+
+<pb n=46>
+<div1 id=a11>
+<head>Elfde tooneel.</head>
+
+<stage type=entrance><hi rend=ex>Dezelfden, behalve de Paphlagoniër.</hi></stage>
+
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Toon nu eens je beleid en je stoutmoedigheid!
+<l>Als &apos;t waar is dat je vroeger, zooals je zelf vertelt,
+<l>In elkaar gehurkt gestolen vleesch verstoppen kondt&mdash;
+<l n=485>Dan loop je nu ook drommels gauw naar &apos;t raadsgebouw,
+<l>Want hij &apos;s daar binnengevallen, en hij dient terstond
+<l>Al buldrend tegen allen een valsche aanklacht in.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dan ga ik, vuil als ik ben, maar toch leg ik nog eerst
+<l>M&apos;n darmen en m&apos;n messen hier op den grond ter neer.
+</sp>
+
+<stage>(<hi>Hij legt alles af</hi>)</stage>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l n=490>Daar heb je olie, wrijf er eerst je nek mee in,
+<l>Dan glijdt daartegen de heele valsche aanklacht af.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Uitmuntend! jij hoort zeker thuis in &apos;t turnlokaal.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Slik ook dit nog naar beneden.
+</sp>
+
+<stage>(<hi>Hij geeft hem knoflook</hi>)</stage>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                               <l rend="hemistich(Slik ook dit nog naar beneden.)">Waarvoor dient me dat?
+</sp>
+
+<pb n=47><sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+<l>Door knoflook te eten zal j&apos; een beter kemphaan zijn.
+<l n=495>Kom, spoed je voort.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                     <l rend="hemistich(Kom, spoed je voort.)">Dat doe ik al.
+</sp>
+
+<sp who=sl2>
+<speaker>Tweede Slaaf.</speaker>
+
+                                    <l rend="hemistich(Kom, spoed je voort. Dat doe ik al.)">En denk er aan:
+<l>Je bijt en lastert, je eet z&apos;n hanekam maar op,
+<l>Als dàt gedaan is, kom je hier weer in galop!
+</sp>
+
+<stage>(<hi>De worstverkooper gaat naar de stad, de slaaf gaat het huis binnen</hi>).</stage>
+
+<sp who=koor>
+<speaker><hi rend=ex>Koorlied.</hi></speaker>
+
+<l>Ga henen met vreugd, en handel vrij
+<l>Tot blijdschap en voldoening van mij,
+    <l n=500 rend="indent(4)">Zeus zelf bescherme uw paden,
+<l>En als d&apos;overwinning eens is behaald,
+<l>Dan komt gij terug, en zegepraalt,
+    <l rend="indent(4)">Met kransen bestrooid en beladen!
+</sp>
+
+<sp who=ak>
+<speaker>De aanvoerder van het koor</speaker>
+
+<stage>(<hi>tot de toeschouwers</hi>)</stage>
+
+<l>En gij! verleent ons aandachtig gehoor, als wij naderen met anapesten,
+<l n=505>Gij, die bij de feesten verschillende zangen van velerlei Muse gehoord hebt!
+</sp>
+
+<stage>(<hi>Het koor wendt zich naar het publiek</hi>)</stage>
+
+<sp who=para>
+<speaker><hi rend=ex>Parabase.</hi></speaker>
+
+<l>Als eertijds een van het oude geslacht, als een vroegere blijspelendichter
+<l>Ons verzocht om naar het publiek toegewend zijne verzen te gaan reciteeren,
+<l>Niet licht verwierf hij die gunst van ons; maar thans is de dichter het waardig,
+<pb n=48><l n=510>Omdat hij veracht wie bij ons is veracht, en omdat hij de waarheid durft spreken,
+<l id=v511>En dapper op Typhon zelf losgaat, en het onweêr waagde te tarten.
+<l>Maar dàt, waar velen verbaasd over zijn, die verwonderd mij vroegen naar d&apos;oorzaak,
+<l>Waarom hij niet vroeger een koor heeft verzocht, om zelf zijn tooneelstuk te spelen,
+<l>Dàt droeg hij ons op te verklaren aan u. Ik heb&mdash;aldus sprak de dichter&mdash;
+<l n=515>Niet uit domheid zóó met mijn verzen gedraald, maar ik huldigde altijd de meening
+<l>Dat er niets op aarde zoo moeilijk was als een blijspel goed te vertoonen.
+<l>Veel minnaars verdringen zich om haar gunst, maar de Muse schenkt weinigen toegang.
+<l>En de dichter, publiek! heeft uw aard doorgrond, hoe gij jaarlijks verandert en wisselt,
+<l>Hoe gij altijd de vroegere dichters verzaakt, zoodra hen d&apos;ouderdom nadert:
+<l n=520>Hij weet wat met Mágnes eens is geschied, toen leeftijd zijn lokken vergrijsde,
+<l>Die zoo menigen wapentros heeft gesticht, als hij won in den edelen wedkamp,
+<l>Die met wiss&apos;lende tonen uw oor heeft gestreeld&mdash;met lierzang&mdash;met kwinkeleeren,
+<l>Met Lydisch gefluit&mdash;met wespengeluid&mdash;die met kikkergekwaak u gedoopt heeft,
+<l>En die tòch niet altijd u kon voldoen, en als grijsaard, niet toen hij jong was,
+<l n=525>Door ù is versmaad, omdat hij te tam, te gematigd was in zijn spotlust!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<pb n=49><sp who=para>
+<l>Ik herinner den dichter Kratinos u ook, die van lof overstroomd en van glorie
+<l>Door uw veld als een bergstroom rolt, poëzie! en platanen en machtige eiken
+<l>Met wortel en tak op den grond doet slaan&mdash;zóó velt hij zijn vijand ter neder,
+<l id=v529>Dat bij ieder feestmaal zijn lied weerklonk: &bdquo;Godin Geefgraag met vijgenpantoffels!&rdquo;
+<l n=530>En &bdquo;Bouwmeesters van kunstrijken zang&rdquo;&mdash;zóó bloeide zijn naam in Athene.
+<l>Doch thans? Geen meelij vervult uwe borst, als hij treurt en zeurt in zijn verzen,
+<l>Wanneer bij het tokkelen weigert zijn luit, als de klanken verdwenen van vroeger,
+<l>En valsch weerklinkt de geheiligde snaar!&mdash;Thans dwaalt hij als grijsaard in &apos;t ronde,
+<l id=v534>Aan Kónnos gelijk, en &bdquo;verdord is zijn krans, en hij gaat aan zijn dorst nog te gronde!&rdquo;
+<l n=535>Hem paste de staatsdrank op het stadhuis, den zoo dikwerf schittrend bekroonde,
+<l>Dan zeurde hij niet, en zat glansrijk hier bij den priester van god Dionysos.
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=para>
+<l id=v537>Zie Krátes eens, wat moest hij van u ook al grillen en luim ondervinden!
+<l>Wiens kunst leek op een eenvoudig ontbijt, dat hem luttele inspanning kostte,
+<l>Die met nuchteren smaak u een maaltijd schonk van grappen en fijne gedachten,
+<l n=540>Toch&mdash;hield hij het uit, soms daalde zijn zon, en dan rees hij weer naar de hoogte.
+<l>Hij vreesde het wisselend dichterenlot. Denkt allen aan wat hij eens zeide:
+<pb n=50><l>Dat men vóór alle dingen een roeier moet zijn, en daarna pas staan aan het stuurrad,
+<l>Allereerst op de plecht van het vaartuig geplaatst, om de richting te leeren der winden,
+<l>En ten slotte de stuurman van alles te zijn!&mdash;Tot dank voor al deze woorden,
+<l n=545>Omdat hij verstandige denkbeelden had, en niet leuterend sprong in zijn scheepje,
+<l>Schenkt gij hem nu donderend handengeklap, voortdurend een eeregeleide,
+<l>Goedgekeurd gemompel op &apos;t schouwburgfeest,
+<l>Dat de dichter tevreden naar huis moge gaan,
+<l>In zijn arbeid geslaagd,
+<l n=550>Met een voorhoofd, stralend van blijdschap!
+</sp>
+
+<sp who=koor>
+<speaker>Koor</speaker> <stage rend=inline>(<hi>Ode</hi>).</stage>
+
+<l>God Poseidon, ù roep ik aan,
+<l>U is de stem van &apos;t snuivend ros,
+    <l rend="indent(4)">U zijn hoefslag geheiligd:
+<l>Gij, die over de waterbaan
+<l>&apos;t Donkergekleurde schip doet gaan,
+    <l n=555 rend="indent(4)">Gij, die zeevaart beveiligt!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l>God Poseidon, der rossen heer!
+<l>Die u verheugt in glans en eer,
+    <l rend="indent(4)">Als, in schittrende rijen,
+<l>Heel de bloeiende jeugd der stad
+<l>Luchtig, vluchtig de teugels vat
+<l>Van den brieschenden paardenschat,
+    <l rend="indent(4)">Voor zijn harddraverijen!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<pb n=51><sp who=koor>
+<l n=560>Kom ten reidans van uit de zee,
+<l>Breng uwen gulden drietand mee,
+    <l rend="indent(4)">Door dolfijnen gedragen!
+<l id=v563>Gij, wien van verre de schipper smeekt,
+<l>Als zijn kiel op de klippen breekt,
+    <l rend="indent(4)">Door den stormwind verslagen!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l>Zilten telg van den dondergod!
+<l>Gij, wien Phormion heel zijn lot,
+    <l rend="indent(4)">&apos;t Lot zijner schepen vertrouwde:
+<l>U ter eer klink&apos; &apos;t loflied schoon,
+<l>U, Poseidon, Kronos&apos; zoon&mdash;
+<l>Gij, ons het liefst van de hemelgoôn,
+    <l rend="indent(4)">Toen ons de zeeslag benauwde!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l n=565>Ja, ik wil den roem verkonden van ons heerlijk voorgeslacht,
+<l id=v566>Waardig op het kleed te stralen, dat m&apos; Athene jaarlijks bracht,
+<l>Mannen die in voetgevechten, òf in &apos;t schip-omkluisterd heir
+<l>Ons den zege steeds bevochten, &apos;t vaderland tot roem en eer.
+<l>Geen van al die dappre mannen heeft den vijand ooit geteld,
+<l n=570>Doch zoodra &apos;t gevaar nabij was, zwol zijn moed en werd hij held.
+<l>Mocht er één terzijde storten, mocht hij wanklen in den slag,
+<l>Hij ontkende, stofafschuddend, dat hij ooit ten onder lag!
+<pb n=52><l>Nimmer staakten zij de worstling, want geen vroeger generaal
+<l>Maakte ooit, als Kléon&apos;s vader, aanspraak op een staatsonthaal;
+<l n=575>Thans verlangt men eerezitplaats, spijs en drank van &apos;t algemeen,
+<l>Of men weigert mee te vechten. Doch wij eischen dat elkeen
+<l>Zich zal offren, onbaatzuchtig, voor den staat en voor zijn goôn,
+<l>Méér verlangen wij van niemand, slechts dit ééne ridderloon:
+<l id=v579>Dat, zoodra de vrede daar is, gij &apos;t ons niet misgunnen zult,
+<l n=580>Dat ons lijf weer is geroskamd, hoofd- en baardhaar weer gekruld!
+</sp>
+
+<sp who=koor>
+<speaker>Koor</speaker> <stage rend=inline>(<hi>Ode</hi>).</stage>
+
+<l>En gij, Pallas, der stede heil!
+<l>Gij die Atheen, in rotsen steil,
+    <l rend="indent(4)">Steunt in oorlog en vrede,
+<l>Die reeds vaak onze stad behieldt,
+<l>Die ons dichterental bezielt
+    <l n=585 rend="indent(4)">Naar de aloude zede!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l>Nader, godin van kunst en vreê,
+<l>Breng welwillend den Zege mee,
+    <l rend="indent(4)">&apos;t Beeld dat rust op uw handen,
+<l>Nike, die ons lied begeleidt,
+<l>Die in oorlog, die in strijd
+<l>Aan Athene haar zorgen wijdt,
+    <l n=590 rend="indent(4)">Schutgodes dezer landen!
+</sp>
+
+<milestone unit=tb rend=asterism>
+<pb n=53>
+
+<sp who=koor>
+<l>Reik thans zegenend uwe hand
+<l>Aan de bloem van den ridderstand,
+    <l rend="indent(4)">Als zij krijg wil beginnen
+<l>Met den vijand, die aan ons land
+<l>Zijn eerzuchtige netten spant:
+    <l rend="indent(4)">Schenk ons zoet overwinnen!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=koor>
+<l n=595 id=v595>Thans wil &apos;k ook den lof bazuinen van den eedlen paardenstand!
+<l>Zij verdienen lof en eerbied, want zij brachten veel tot stand,
+<l>Hebben mèt ons veel verdragen, ingevallen en gestreên,
+<l>Maar wat zij op &apos;t land volbrachten, kent nog lang niet iedereen!
+<l>Sprongen zij niet, flink als mannen, op de schepen van het land?
+<l n=600>Dronken zij niet flink uit bekers, aten knoflook uit de hand?
+<l>Droegen zij elkaar niet riemen, als gewone menschen, na,
+<l>Riepen zij niet, waterscheppend: &bdquo;Wie roeit mee? hiep, hiep, hoera!&rdquo;
+<l>&bdquo;Aarzel niet om aan te pakken, grijp de riemen, edel ros!&rdquo;&mdash;
+<l>Toen men aankwam in Korinthe, liep de troep er gauw op los
+<l n=605>Om met hoeven zich een rustplaats en een <corr sic=":"></corr>deksel op te slaan
+<l>En wat was uw voedsel, paarden? kreeften, en geen klaverblaân!
+<l>Als een kreeft naar land kwam kruipen, vingt gij hem uit &apos;t peilloos diep,
+<pb n=54><l>Zoodat eens &apos;n Korinthisch kreeftje, &apos;n moppentapper, luidkeels riep:
+<l>&bdquo;Vreeslijk toch, o god Poseidon, dat de woning van geen visch,
+<l n=610>Noch de aarde noch het water voor de ridders veilig is!&rdquo;
+</sp>
+
+
+
+<div1 id=a12>
+<head>Twaalfde tooneel.</head>
+
+<stage>(<hi>De worstverkooper komt terug</hi>)</stage>
+
+<stage type=entrance><hi rend=ex>Het koor. De worstverkooper.</hi></stage>
+
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Dierbaarste man, bezield van jeugdig&apos; overmoed,
+<l>Met hoeveel zorg betreurde ik uw afwezigheid!
+<l>En daar gij nu behouden zijt teruggekeerd,
+<l>Vertel ons, wàt is &apos;t einde van den strijd geweest?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=615 id=v615>Nu heet ik &bdquo;Winraad,&rdquo; want ik overwon den raad!
+
+<sp who=koor>
+<speaker>Koor<corr>.</corr></speaker> <stage rend=inline>(<hi>Strophe of Keer</hi>).</stage>
+
+<l>Juicht nu allen! de worsteman
+    <l rend="indent(4)">Zal zijn rede beginnen.
+<l>Hij, die spreekt zoo heet van de pan,
+<l>En die nog beter vechten kan,
+    <l rend="indent(4)">Glorierijk overwinnen!
+<l>Vang thans aan met uw verhaal,
+    <l rend="indent(4)">Niets ga voor ons verloren,
+<l>Stel uw rede noch perk noch paal,
+<l>Want ik reis één en andermaal
+    <l rend="indent(4)">Om uw woorden te hooren.
+<pb n=55><l>Spreek dus rustig en welgemoed,
+    <l rend="indent(4)">Wie aan u twijfelen dorsten
+<l>Vallen u thans eerbiedig te voet,
+<l>Zijn verrukt door uw heldenmoed,
+    <l rend="indent(4)">Edel koopman in worsten!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Het loont de moeite om te hooren wat ik deed.
+<l n=625>Ik rende terstond en achter hem de raadzaal in.
+<l>Hij brak reeds binnen menig donderwoord den nek,
+<l>En braakte zijn verwensching tegen de ridders uit,
+<l>En schold hen samenzweerders, zoodat iedereen
+<l>Hem ging gelooven. Al de mannen van den raad
+<l n=630>Wist hij te boeien door zijn grove leugenkool.
+<l>Men keek zuur als mosterd, dreigend fronste men het hoofd.
+<l>Toen ik nu zag hoe men gesteld was op zijn woord,
+<l>En hoe men door zijn sluwe taal bedrogen werd,
+<l>Toen bad ik tot de goden die ik &apos;t beste ken,
+<l>&bdquo;O Onbeschaamden en Bedriegers (dus bad ik),
+<l n=635>&bdquo;O Stommelingen en Kabouters, o Slavenras,
+<l>&bdquo;O Markt waarin ik reeds als knaap ben opgevoed!
+<l>&bdquo;Schenkt mij nu durf, behalve een gelikte tong,
+<l>&bdquo;Een stem vol onbeschaamdheid!&rdquo; Wijl ik dit bedacht,
+<l>Liet een verkeerde liefhebber aan mijn rechterkant
+<l n=640>Er eentje vliegen, zoodat ik van eerbied boog.
+<l id=v641>Toen heb ik met mijn achterste het traliewerk
+<l>Geopend, en ik schreeuwde &apos;t uit met wijden mond:
+<l>&bdquo;Ik breng u, heeren van den raad, een goed bericht,
+<l>&bdquo;Hoort dus de blijde boodschap, waar ik hier meê kom,
+<l>&bdquo;Nog nimmer, sinds de oorlog uitgebroken is,
+<pb n=56><l n=645>&bdquo;Is hier de ansjovis voor een lager prijs verkocht!&rdquo;&mdash;
+<l>Op deze tijding trok elkeen een zoet gezicht,
+<l>Men wijdde mij voor &apos;t goed bericht een eerekrans,
+<l>En ik gaf aan den raad toen het geheim advies
+<l>&bdquo;Om alle ansjovis op te koopen voor een cent per stuk,
+<l n=650>&bdquo;En de schotels t&apos; arresteeren, die voorhanden zijn.&rdquo;
+<l>Men klapte en men gaapte mij verwonderd aan.
+<l>De Paphlagoniër, die dit alles had bemerkt,
+<l>En de woorden wist die indruk maken op den raad,
+<l>Nam toen het woord, en zeide: &bdquo;Mannen, ik stel voor
+<l n=655>&bdquo;De goede tijding te herdenken, ons gebracht,
+<l>&bdquo;Met een honderdkoeienoffer aan godin Atheen.&rdquo;
+<l>Hem knikte toen de heele raad welwillend toe,
+<l>Doch ik, die nimmer wijken wil voor koeiemest,
+<l>Bood tweehonderd koeien, en versloeg hem door dat bod.
+<l n=660>Ook stelde ik voor, aan Artemis de jachtgodin
+<l>Een duizendbokjesoffer te beloven, als
+<l>D&apos;ansjovis honderd voor een cent geprijsd zou zijn.
+<l>En op dat voorstel knikte weer de heele raad.
+<l>Toen hij dat hoorde, schrikte hij, sprak leutertaal,
+<l n=665>En de bedienden sleurden hem van &apos;t spreekgestoelt&apos;.
+<l>Nu stond elk op, en er ontstond een vischdebat,
+<l>Maar Kléon smeekte, of men nog wat blijven wou,
+<l>&bdquo;Verneemt nog wat u de heraut uit Sparta zegt,
+<l>&bdquo;Een wapenstilstand biedt hij u ten tweeden keer!&rdquo;
+<pb n=57><l n=670>Doch ieder schreeuwde tegen hem, als uit één mond:
+<l>&bdquo;Een wapenstilstand? nu op eens? terwijl zoo juist
+<l>&bdquo;Bericht werd dat d&apos;ansjovis is in prijs verlaagd?
+<l>&bdquo;Dat is niet noodig, d&apos;oorlog kan zijn gang gaan, hoor.&rdquo;
+<l>En tevens riep men: &bdquo;Hef maar gauw de zitting op.&rdquo;
+<l n=675>Van alle kanten sprong men over de balie heen,
+<l>En ik kneep uit, en kocht alle koriander op
+<l>En alle uien, die op de markt te vinden zijn,
+<l>En maakte daar toen de ansjovis lekker mee,
+<l>Zoodat de raadslui smulden voor geen halve cent.
+<l n=680>Ik, die alom bewonderd ben en opgekamd,
+<l>Heb met mijn korianders en mijn uien dus
+<l>Voor weinig centen al de raadslui&mdash;opgeknapt!
+</sp>
+
+<sp who=koor>
+<speaker>Koor<corr>.</corr></speaker>
+
+<stage>(<hi>antistrophe of tegen-keer</hi>)</stage>
+
+<l>Heil u, dierbare beulingvrind,
+    <l rend="indent(4)">Heil zij u allerwege,
+<l>Alles gaat u thans voor den wind,
+<l>Wie zoo dapper den strijd begint,
+    <l n=685 rend="indent(4)">Dien wacht weldra de zege!
+<l>Want die schurk vond een schurk in u.
+    <l rend="indent(4)">Grooter in list en in lagen,
+<l>Met uwen mond, zoo groot en ruw,
+<l>Met uwe listen, fijn en sluw,
+    <l rend="indent(4)">Hebt gij hèm nog verslagen.
+<l>Vecht nu maar tot het einde door,
+    <l rend="indent(4)">Toon u listig en machtig,
+<l>Want wij allen, het ridderkoor,
+<l>Helpen u en volgen uw spoor,
+    <l n=690 rend="indent(4)">Ondersteunen u krachtig!
+</sp>
+
+<pb n=58><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Daar komt hij, onze vriend de Paphlagoniër,
+<l>Hij bruist als een bergstroom, en hij snuift en raast maar door,
+<l>Alsof hij m&apos; op wil eten, hij lijkt Blauwbaard wel.
+</sp>
+
+
+
+<div1 id=a13>
+<head>Dertiende tooneel.</head>
+
+<stage>(<hi>De Paphlagoniër, met een krans op, komt terug uit den raad en snelt op het tooneel</hi>).</stage>
+
+<stage type=entrance><hi rend=ex>Worstverkooper, Paphlagoniër, Het Koor.</hi></stage>
+
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Als ik jou niet vermorsel, als ik de leugentaal
+<l n=695>Niet meer heb van vroeger, dan ben ik een verloren man.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik lach om jou bedreiging, &apos;k schud van je snoeverij,
+<l id=v697>Ik dans om jou een negerdans en ik hoon j&apos; er bij!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik zweer je bij Demeter! dat &apos;k niet leven zal,
+<l>Als ik je nìet levend opvreet en het land uitjaag.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=700>Niet levend opvreet? kerel, ik zuip je levend op,
+<l>Al moest ik daarna barsten als een varkensblaas.
+</sp>
+
+<pb n=59><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Je sterft, zoowaar ik voorzitter ben van Athene&apos;s raad!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Jij voorzitter? en ik zal maken vroeg of laat
+<l>Dat j&apos; op de allerlaatste zitbank zitten gaat.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=705>&apos;k Zweer bij den hemel, ik laat jou in boeien slaan.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>O wat een driftkop! wou je soms wat eten gaan?
+</sp>
+
+<stage>(<hi>ter zijde</hi>)</stage>
+
+<sp who=wv>
+<l>Waar smult hij van? is &apos;t soms een beurs, met geld belaân?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Met m&apos;n nagels krab ik al je ingewanden uit.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En met mijn nagels maak ik gaten in je huid,
+<l>En haal het eten, dat de raad je geeft, er uit.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=710>Ik sleur jou, vrindje, voor &apos;t gerecht, geloof me vrij.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik sleur jou ook, en doe een valschen eed daarbij.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wees maar verzekerd, schurk, dat &apos;t volk naar jou nìet hoort,
+<pb n=60><l>Maar ik kan ze lekker foppen, op mijn eerewoord.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Heb jij zoo zeker het gepeupel in je macht?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=715>Ik weet waarvan zij smullen, en dat is m&apos;n kracht.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Je voêrt ze gemeen, zooals er vele bakers doen,
+<l>Van &apos;t eten dat je voorkauwt geef je &apos;t kind haast niets,
+<l>Terwijl je zelf driemaal zooveel naar binnen slokt.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Bij Zeus! ik zweer je, als &apos;t je nòg niet is bekend,
+<l n=720>Dat &apos;k ieder dik of dunner maak, door mijn talent.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat is een slimheid, die mijn achterste ook wel weet.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Als jij voor &apos;t volk komt houdt je overmoed geen stand,
+<l>Laat ons naar &apos;t volk gaan.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                            <l rend="hemistich(Laat ons naar &apos;t volk gaan.)">&apos;k Heb daartegen geen bezwaar,
+<l>Vooruit, loop op, niets mag er zijn dat ons weerhoudt.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=725>Heer Volk, kom hier!
+</sp>
+
+<pb n=61><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                <l rend="hemistich(Heer Volk, kom hier!)">Ja, vader Volk, kom hier bij Zeus,
+<l>Lief vadertje Volk, verlaat je huis en kom bij ons!
+</sp>
+
+
+
+<div1 id=a14>
+<head>Veertiende tooneel.</head>
+
+<stage type=entrance><hi rend=ex>De Worstverkooper, de Paphlagoniër, Volk, Het Koor.</hi></stage>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wie roepen mij daar? gaat toch weg hier voor m&apos;n deur,
+<l id=v728>Want je vernielt den krans die aan den deurpost hangt.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Kom hier, en zie wat onrecht mij wordt aangedaan.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=730>Wie doet dat, Paphlagoniër?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+                            <l rend="hemistich(Wie doet dat, Paphlagoniër?)">Ik krijg slaag voor u,
+<l>Van dien vent en van die heertjes daar.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                                        <l rend="hemistich(Van dien vent en van die heertjes daar.)">Waarom is dat?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Omdat ik je liefheb, Volk, omdat ik je minnaar ben.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Zeg, wie ben jij daar?
+</sp>
+
+<pb n=62><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+            <l rend="hemistich(Zeg, wie ben jij daar?)">Een medeminnaar ben &apos;k van hem,
+<l>Die van je houdt, en die reeds lang je wèl wil doen,
+<l n=735>Ik wil hetzelfde als veel andere nette lui.
+<l>Maar door zijn schuld zijn wij onmachtig. Immers jij,
+<l>Je doet precies als kinderen die bedorven zijn,
+<l>Je luistert nimmer naar den raad van nette lui,
+<l>Maar wèl naar lampenkooplui en naar schoenmakers,
+<l n=740>Schoenlappers en leerlooiers&mdash;die houdt jij te vrind.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik ben een weldoener van hem!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                              <l rend="hemistich(Ik ben een weldoener van hem!)">Verklaar dat eens!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik fopte het gezantschap, dat uit Pylos kwam,
+<l>Ik zeilde heen en bracht de Spartanen gevangen hier.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v744>Maar ik heb onlangs, toen ik uit m&apos;n winkel kwam,
+<l n=745>Den pot gestolen van iemand, die aan &apos;t kooken was.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Meneer Volk! beleg terstond maar een vergadering,
+<l>Beslis dan zelf, wie van ons tweeën jou het meest
+<l>Gunstig gestemd is, en neem dien aan tot je vriend.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ja, ja, beslis het zelf maar, maar niet op de Pnyx!
+</sp>
+
+<pb n=63><sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=750>Ik wil niet ergens anders zitten dan op de Pnyx!
+<l>Vooruit met jullie, komt te voorschijn op de Pnyx!
+</sp>
+
+<stage>(<hi>Volk gaat naar een hooge plaats, die de Pnyx voorstelt, en zet zich daar neder</hi>).</stage>
+
+<sp who=wv>
+<speaker>Worstverkooper</speaker> <stage rend=inline>(<hi>ter zijde</hi>).</stage>
+
+<l>O wee, ik ben verloren, want de oude man,
+<l>Wanneer hij thuis is, is een beste goede heer,
+<l>Maar nauwlijks heeft hij plaats genomen op die rots,
+<l n=755>Of hij gaapt als iemand, die een ristje vijgen maakt.
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<stage>(<hi>tot den worstverkooper</hi>)</stage>
+
+<l>Zet nu maar alle zeilen bij,
+    <l rend="indent(4)">En toon je beste beentje,
+<l>Wees overmoedig en wees vrij,
+<l>Bedenk een heele scheldpartij,
+<l>Waarmee je Kléon zet op zij,
+    <l rend="indent(4)">Want hij, hij is er eentje,
+</sp>
+
+<sp who=koor>
+<l>Die zich in alle bochten weet
+    <l rend="indent(4)">Te dringen en te wringen,
+<l>In elken muur ziet hij een reet,
+<l>En hij kent listen bij de vleet,
+<l>Al is &apos;t gevaar ook nog zoo heet,
+    <l rend="indent(4)">Om toch den dans t&apos;ontspringen!
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l n=760>Wees zeker dat gij met overmacht, met krachtpatserij op hem lostrekt,
+<pb n=64><l>Maar wees tegelijk voorzichtig ook, en bedenk, voordat hij u aanvalt,
+<l id=v762>Dat je gauw met je ra naar den vijand draait, en je slingerwerptuigen omhoog hijscht!
+</sp>
+
+
+
+<div1 id=a15>
+<head>Vijftiende tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Aan mijn meesteres, godinne Atheen, die de stad wil schermen en schutten,
+<l>Bid ik thans, zoowaar als ik steeds voor het volk, den doorluchtigen staat der Atheners,
+<l n=765 id=v765>D&apos;allerbeste geweest ben na Lysikles en Kynna en Salabakcho,
+<l>Dat ik steeds, al doe ik ook niets, toch op staatskosten zal worden gespijzigd.
+<l>Doch als ik u haat, en in uw belang niet alleen zal treden in &apos;t strijdperk,
+<l>Dan ga ik spoedig in stukken gezaagd of in riemen gesneden te gronde!
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik, o Volk, als ik jou niet bemin, niet liefheb, moge gesneden,
+<l n=770>En in kleine stukjes gebraden zijn&mdash;doch wanneer die wensch niet genoeg is,
+</sp>
+
+<stage>(<hi>hij houdt zijn worstplank in de hoogte</hi>)</stage>
+
+<sp who=wv>
+<l>Dan moog ik in pap fijn worden geschaafd, met kaas, hier op deze worstplank,
+<l>En met een haak bij de beenen gesleept in de voorstad worden begraven.
+</sp>
+
+<pb n=65><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Hoe zou er toch ooit één burger bestaan die het Volk meer liefheeft dan ik doe?
+<l>Die ten eerste, als lid van den raad, heb gemaakt dat uw kas voortdurend gevuld was,
+<l n=775>Want in het publiek&mdash;ik vroeg het den een&mdash;ik bestal en ik worgde den ander,
+<l>Geen particulier was veilig bij mij, deed ik maar het Volk een pleiziertje.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat&apos;s heelemaal niet ongewoon, o Volk! want ik doe terstond u hetzelfde.
+<l>Ik steel u de brooden uit andermans huis, en zet die voor u als een maaltijd,
+<l>Dat die schurk van hierover u niet liefheeft, dat zal ik vóór alles u toonen.
+<l n=780>Tenzij dáárom alleen hij het doet, omdat hij zich warmt aan uw koolvuur.
+<l>Gij Volk! die met Mediërs eens hebt gestreên, die bij Marathon voor uw bestaan vocht,
+<l>U, die na den zege ons steeds hebt gewend aan machtige woorden en grootspraak,
+<l>Om ù geeft hij niets, dat gij daar zoo ruw en zoo hard neerzit op de rotsen,
+<l>Niet als ik heeft hij een matras u genaaid. Dien breng ik u: rijs in de hoogte,
+<l n=785>Zit lekker, en koester het achterdeel, dat bij Salamis véél heeft geleden!
+</sp>
+
+<stage>(<hi>Hij legt een matras onder hem</hi>)</stage>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l id=v786>Wie zijt gij o mensch? stamt gij soms af van den grooten tirannenvermoorder?
+<pb n=66><l>Dat is nu in waarheid een edel geschenk, metterdaad toont gij u een volksvriend.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wat zijt gij op eens welwillend gestemd door zulk een gering vleierijtje!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Veel geringer nog is het lokaas geweest, waar gij hem steeds mee gestreeld hebt!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=790>Nooit is er een man verschenen op aard, o Volk, die u flinker beschermde,
+<l>Of die u meer liefhad dan ik&mdash;is &apos;t niet zoo, ja, ja, ik verwed er mijn hoofd om.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Jij houdt van het volk, die al acht jaar lang geen meelij toont en het aanziet,
+<l>Hoe het hier in de buurt armzalig woont, in hutten en krotten en nesten?
+<l id=v794>Jij plukt alle menschen, en sluit ze maar op; toen Archeptolemos aankwam
+<l n=795>Om vrede te brengen, dreeft gij hem weg, en gij jaagt alle gezanten
+<l>Met schande en smaad uit Athene voort, als zij wapenstilstand verzoeken.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Opdat gij over alle Hellenen heerscht!&mdash;Want &apos;t staat in orakels geschreven,
+<l>Dat hij eens in Arkadië rechter zal zijn.... voor vijf obolen salaris,
+<l>Als hij volhoudt.... daarom is het dan ook dat ik hem zal kweeken en voeden,
+<pb n=67><l n=800>Dat ik hem zal verschaffen, &apos;t zij recht of &apos;t zij krom, zijn drie obolen salaris.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat het Volk in Arkadië heerschen zou, was je doel niet, maar je beoogde
+<l>Van de steden te plukken zooveel als je kon, zoodat het volk ondertusschen
+<l>Door oorlog en duistere neevlen verblind, al je slechtheid niet zoude bemerken,
+<l>Maar gedreven door nood en behoefte aan loon steeds gapend tegen je opzag!
+<l n=805>Als deze zich weder begeeft naar het land, als hij vreedzaam daar wil vertoeven,
+<l>En moed zal hervatten bij &apos;t eten van gort, en het sap van druiven weer aanspreekt,
+<l>Dan zal hij de weldaden zien, waarvan gij met uw soldij hem beroofd hebt,
+<l>En hij komt als een boertje verbitterd terug, om zijn stem tegen ù uit te brengen.
+<l>Dat weet gij, en daarom bedriegt gij uw heer, en gij snoeft en gij droomt van uzelven!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=810>Is het niet onbeschaamd dat ge dàt van mij zegt, en dat ge mij telkens belastert
+<l>Bij het volk der Atheners, en bij dien staat, dien ik zoo herhaaldelijk weldeed,
+<l>Mij, die nog meer dan Themistokles voor de stad in &apos;t bijzonder gedaan heb?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v813>&bdquo;Stad van Argos, luister naar diens verhaal!&rdquo;&mdash;met Themistokles durft gij u meten?
+<pb n=68><l>Met hem, die de stad schatrijk heeft gemaakt, die hij trof in behoeftigen toestand?
+<l n=815>Die de stad daarenboven, bij wijs van ontbijt, den Piraeus aanbood als kluifje,
+<l>En aan versche visschen haar smullen deed, wijl hij niets van de oude haar afnam?
+<l>Maar gij, die door uw geheele gedoe kleinburgerlijk maakt de Atheners,
+<l>Door murengebouw en orakelgezang&mdash;met Themistokles durft gij u meten!
+<l>Hij&mdash;werd verbannen uit onze stad&mdash;Jij&mdash;smult van warme kadetjes!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=820>Is dat niet vreeselijk, meester Volk, dat ik zoo iets van hem moet hooren,
+<l>Ik die u bemin?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                <l rend="hemistich(Ik die u bemin?)">Houd jij maar op en verveel mij niet met je kletspraat
+<l>Lang was &apos;t mij ontgaan en nu bijna weer, hoe jij altijd de kat knijpt in &apos;t donker.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Hij is een vervloekeling, Volkjelief, en zijn euveldaân zijn ontelbaar!
+<l>Zoodra gij slaapt, plukt hij expres
+<l n=825>De lekkerste stengels uit een proces,
+<l>En slikt die door, met beide hand
+<l>Staat hij te lepelen de soep van &apos;t land.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Jij zal niet lachen, wanneer ik bewijs
+<l>Dat je vijf talenten stal als prijs!
+</sp>
+
+<pb n=69><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=830>Wat plas je door en flodder je toch,
+<l>Jij, die door je listen en je bedrog
+<l>Het Atheensche volk weet te honen?
+<l>Geloof maar dat &apos;k aan kan toonen,
+<l>Of bij de goden! ik leef niet meer,
+<l>Dat j&apos; uit Mytilene keer op keer,
+<l>Door omkooperij van velen
+<l n=835>Meer dan veertig mina&apos;s dorst stelen!
+</sp>
+
+
+<sp who=koor>
+<speaker>Koor<corr>.</corr></speaker>
+
+<stage>(<hi>tot den worstverkooper</hi>)</stage>
+
+<l>O gij, die als een steun en stut
+    <l rend="indent(4)">Voor allen zijt verschenen,
+<l>&apos;k Bewonder van uw taal de fut,
+<l>En als gij verder ons beschut,
+<l>Zult gij de grootste zijn in nut
+    <l rend="indent(4)">Voor &apos;t volkje der Hellenen!
+</sp>
+
+<sp who=koor>
+<l n=840>Gij zult weldra in stad en land
+    <l rend="indent(4)">Alleen &apos;t bewind gaan voeren,
+<l>Neptuin gelijk, zet fluks uw tand
+<l>De bondgenooten naar uw hand,
+<l>Geld zult gij slaan uit iedren stand
+    <l rend="indent(4)">Door schudden en door roeren!
+</sp>
+
+<sp who=ak>
+<speaker>Aanvoerder van het koor.</speaker>
+
+<l>Laat hem geen oogenblik met rust; hij heeft vat op zich gegeven,
+<l>Met zulke longen in je lijf, kan je hem zijn vet wel geven!
+</sp>
+
+
+
+<pb n=70>
+<div1 id=a16>
+<head>Zestiende tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Neen, goeje menschen, &apos;t is zoover met mij nog niet gekomen!
+<l>Want ik heb zulk een heldenstuk bedacht en ondernomen
+<l n=845>Dat &apos;k allen vijanden den mond zal snoeren, en niet wijken
+<l>Zoolang de schilde&apos; en krijgstrofeên van Pylos hier nog prijken.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Hou jij maar met je schilden op! je hebt m&apos; al vat gegeven,
+<l>Want als je waarlijk hieldt van &apos;t volk, had jij nooit last gegeven
+<l>Die schilden aan de handvatsels hier op te laten hangen.
+<l n=850>Neen, Volk! dat was een list van hem om jou daarmee te vangen,
+<l>Om als je hem bestraffen wilt, jou daarin te verhinderen.
+<l>Kijk wat een staf hij om zich heeft van mannen en van kinderen,
+<l>Leerlooiers, honighandelaars, een kaasverkoopersbende,
+<l>Dat hokt hier onder één deken saam, en stort jou in d&apos;ellende,
+<l n=855>Zoodat, wanneer jij brullen zou, en &bdquo;Gooi-em-er-uit&rdquo; zou spelen,
+<l>Zij &apos;s nachts geheel dien wapentros en schilden zouden stelen,
+<pb n=71><p>Om dan terstond den toegang tot de broodmarkt te bezetten.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wat, hebben zij de handvatsels? dat zal ik hen beletten,
+<l>Wat heb jij, slechte kerel, mij al lang gefopt met streken!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=860>Mijn beste man, geloof toch niet altijd wie &apos;t laatst mag spreken!
+<l>Wees zeker dat j&apos; een beter vriend dan ik ben nooit zult vinden,
+<l>Wie samenzweerde tegen &apos;t volk wist ik alleen te binden,
+<l>Zoodra in onze goede stad men maar ging samenrotten,
+<l>Dan schreeuwde ik terstond het uit, en liet me nooit bedotten.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Het is met jou altijd gegaan als lui die paling vangen,
+<l n=865>Als &apos;t water stil en rustig is, blijft ook de dobber hangen,
+<l>Maar als het water troebel is, dan roeren z&apos; in de modder,
+<l>Dan vangen zij!&mdash;Zoo vang jij ook, met al je staatsgeflodder.
+<l>Nog één vraag: Jij, die zooveel leêr en riemen kunt verkoopen,
+<l>Verschafte jij dien ouden heer ooit zolen bij het loopen,
+<l n=870>Dien jij bemint zooals je zegt?
+</sp>
+
+<pb n=72>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                      <l rend="hemistich(Dien jij bemint zooals je zegt?)">Neen, bij Apollo, nimmer!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Zie je nu wat voor een vent hij is? het wordt al slim en slimmer.
+<l>Maar ik&mdash;kocht lang een schoenenpaar, en geef het j&apos; om te dragen.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Jij bent de grootste vriend van &apos;t volk, waar &apos;k ooit van kon gewagen,
+<l>Want naast de stad bescherm jij ook de teenen van de voeten.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=875>&apos;t Is vreeslijk dat de schoenen hier zooveel bewijzen moeten!
+<l>Vergeet je dan mijn weldaân hier? ik dorst met &apos;t kwaad te vechten,
+<l id=v877>D&apos;onzedelijken Haviksneus ontnam &apos;k zijn burgerrechten!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Is dat niet vreeselijk, van jou dien achterklap te hooren,
+<l>Dat een onzeedlijk man als jij onzeedlijkheid moet smoren!
+<l n=880>&apos;t Was jou alleen daarom te doen, geen sprekers meer te fokken!
+<l>Jij, die nog nooit deez&apos; ouwen heer een hemd hebt aangetrokken,
+<l>Een tweearmshemd, dat heb je nooit, al vriest het, van je leven
+<pb n=73><l>Aan &apos;t volk gegund&mdash;hier, ouweheer, laat mij dat aan je geven.
+</sp>
+
+<stage>(<hi>Hij doet Volk een hemd aan</hi>)</stage>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Zoo iets kon zelfs tot dusver niet Themistokles bedenken,
+<l n=885>Al schonk hij wijs&mdash;maar zulk een hemd is &apos;t schoonste der geschenken<corr sic=",">.</corr>
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>&apos;t Gaat mis met mij, zóó kan je hem met apenkool bedonderen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik doe wat dronken kerels doen, zoodra het roert van onderen,
+<l>Zóó schiet ik in jouw sloffen nou&mdash;dus wil je niet verwonderen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=890>Toch zal jij met je vleierij, jou leelijk apenbakkes!
+<l>Niet winnen. Ouweheer, ik bied deez&apos; mantel u!
+</sp>
+
+<stage>(<hi>Hij wil hem ook een mantel aandoen</hi>)</stage>
+
+<sp who=volk>
+<speaker>Volk</speaker> <stage rend=inline>(<hi>den mantel afwijzende</hi>).</stage>
+
+                                                <l rend="hemistich(Niet winnen. Ouweheer, ik bied deez&apos; mantel u!)">Ajakkes!
+<l>Loop met je mantel naar de hel, hij stinkt naar leêr, verdikke!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dien deed hij jou opzett&apos;lijk om, om jou daarin te stikken.
+<l>Reeds vroeg had hij &apos;t op jou gemunt. Weet jij nog hoe verleden
+<l n=895 id=v895>Het silphium is in prijs gedaald?
+</sp>
+
+<pb n=74><sp who=volk>
+<speaker>Volk.</speaker>
+
+                      <l rend="hemistich(Het silphium is in prijs gedaald?)">Dat weet ik nog als heden.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Welnu, hij heeft zijn best gedaan om dat goedkoop te maken.
+<l>Dat iedereen het eten zou, en dat als resultaten,
+<l>De rechters in de rechtbank niets dan winden zouden laten.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Dat moest ik onlangs van een man uit &apos;t dorpje Mest nog hooren.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=900>Werdt jullie van dat windgeblaas niet rood tot over d&apos; ooren?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l id=v901>Welzeker, en dat alles heeft die Roodkop ons verzonnen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Jij hebt met lage en vuile taal mij bijna overwonnen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat heeft de godheid mij gelast, nog meer dan jij te schetteren.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Je zùlt niet overwinnen, en ik zal je nòg verpletteren,
+<l>Want ik beloof je, meester Volk, dat zonder iets te werken,
+<l n=905>J&apos;een heelen schotel slikt met loon, en niets ervan zult merken.
+</sp>
+
+<pb n=75>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik kom met een smeerseltje en een doosje jou verrassen,
+<l>Om de wondjes die je aan je beentjes hebt daar netjes mee te wasschen.
+</sp>
+
+<stage>(<hi>Hij biedt dit aan</hi>)</stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik trek je grijze haren uit, dat j&apos; eeuwig jong zal blijven.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik geef jou een hazestaart, om j&apos; oogjes in te wrijven.
+</sp>
+
+<stage>(<hi>Hij biedt dit aan</hi>)</stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=910>Jij mag je neus, wanneer je &apos;m snuit, gerust aan mijn hoofd wrijven.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Neen, dat is vies, geloof me vrij.
+<l>Doe &apos;t liefst bij mij, doe &apos;t liefst bij mij.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik zal je krijgen dat &apos;t je lust;
+<l>Wanneer je ooit een schip uitrust,
+<l>Dan lever ik j&apos; een oud stuk hout,
+<l n=915>Dat jij geen geld meer overhoudt:
+<l>Waaraan altijd iets, dat &apos;s gewis,
+<l>Te lappen en te timm&apos;ren is,
+<l>Ook zal ik zorgen dat je vast
+<l>Niets anders krijgt dan &apos;n rotte mast.
+</sp>
+
+<pb n=76><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Wat snuift de vent! wat sputtert hij!
+<l n=920>Als overkokende rijstebrij,
+<l>Met dreigementen en met straf,
+<l>Komaan, ik neem het schuim er af!
+</sp>
+
+<stage>(<hi>Hij biedt den Paphlagoniër al lachende zijn soeplepel aan</hi>).</stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik laat je betalen dat je kraakt,
+<l>En in de vermogensbelasting raakt,
+<l n=925>Jij wordt door mij, door mij alleen,
+<l>Hoogstaangeslagene in Atheen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v927>Ik dreig je niet met zoet of zuur,
+<l>Maar wensch je &apos;t volgend avontuur:
+<l>Dat als je pan staat op het vuur,
+<l>Waarin een lekkere pijlinktvisch
+<l>Met veel geknetter en gesis
+<l n=930>Verrukk&apos;lijk aan het braden is:
+<l>Jij dan d&apos; aanstaande spreker bent
+<l>Over een Milesisch incident
+<l>(Waarbij te gappen is één talent):
+<l>Welnu&mdash;is d&apos;omkooperij verricht,
+<l>Dan wed ik dat je je haast allicht
+<l>Om met een afterdinnergezicht
+<l>De vergadering te verschrikken!
+<l n=935>Dan hoop ik dat op eens de man,
+<l>Die met jou konkelen wil en kan,
+<l>Terwijl de visch nog staat in de pan,
+<l>Verschijne voor jouw blikken,
+<l>En dat je dan, voordat de visch
+<l>Nog in jouw maag verdwenen is,
+<l>Jij, happig op het geldgegris,
+<l n=940>Nog onder het eten mag stikken!
+
+<pb n=77>
+<sp who=koor>
+<speaker>Koor</speaker> <stage rend=inline>(<hi>lied</hi>).</stage>
+
+<l>Bij Apollo, bij Demeter,
+    <l rend="indent(4)">En bij Zeus den dondergod,
+<l>Zulk een wensch is voor den vreter
+    <l rend="indent(4)"><hi rend=ex>Het verdiende levenslot</hi>!
+</sp>
+
+
+
+<div1 id=a17>
+<head>Zeventiende tooneel.</head>
+
+<stage type=entrance><hi rend=ex>Dezelfden.</hi></stage>
+
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Ook mij dunkt hij nu alleszins klaarblijkelijk
+<l>Een goede burger, zooals nimmer nog voorheen
+<l n=945>Er is verschenen voor Jan Pet en de centenlui.
+<l>Maar jij, o allerberoerdste Paphlagoniër,
+<l>Beweert dat jij me liefhebt, en verbittert me steeds!
+<l id=v948>Geef dus je zegelring terug, je mag niet meer
+<l>Voor mij blijven zorgen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër</speaker> <stage rend=inline>(<hi>geeft den ring terug</hi>).</stage>
+
+                         <l rend="hemistich(Voor mij blijven zorgen.)">Dáár, &apos;k verzeker u alleen
+<l>Dat als jij mij niet langer voor je zorgen laat,
+<l n=950>Er een ander komt, nog veel misdadiger dan ik.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>&apos;t Is zeker dat die zegelring dien jij me geeft
+<l>De mijne niet is, er staat een ander zegel op,
+<l>Of &apos;k zie niet goed.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                     <l rend="hemistich(Of &apos;k zie niet goed.)">Laat zien aan mij, wat stond er op?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l id=v954>Het was een soort gebakken deeg van ossenvet.
+</sp>
+
+<pb n=78><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=955>Dat staat er niet.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                   <l rend="hemistich(Dat staat er niet.)">Zie jij geen deeg, wat staat er dan?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Een meeuw, die boven op een rots aan &apos;t schreeuwen is.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>O wee.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+       <l rend="hemistich(O wee.)">Wat is er?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                  <l rend="hemistich(O wee. Wat is er?)"><corr sic=Goei>Gooi</corr> dien ring maar heel gauw weg,
+<l id=v958>&apos;t Was niet de ring van mij, maar van Kleonymos,
+<l>Neem dezen ring, en zorg jij dan voortaan voor mij.
+</sp>
+
+<stage>(<hi>Hij geeft hem een anderen</hi>)</stage>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=960>Doe dat nog niet, o ouweheer, &apos;k bezweer het u,
+<l>Voordat ge nog naar mijn orakels hebt gehoord.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Hoor dan ook de mijne.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+                       <l rend="hemistich(Hoor dan ook de mijne.)">Als je luistert naar dièn vent,
+<l>Dan wordt je kaal.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                   <l rend="hemistich(Dan wordt je kaal.)">Wanneer je doet wat hij verlangt,
+<l>Dan wordt je bloot tot op de haren van je huid.
+</sp>
+
+<pb n=79><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=965>In mijn orakels staat dat jij regeeren moet,
+<l>Bekransd met rozen, over &apos;t heele grondgebied.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En in de mijne, dat jij in een purperkleed,
+<l>Een krans op &apos;t hoofd, zult rijden op een gulden kar,
+<l id=v969>En&mdash;Smikythes en Agyrrios vervolgen zult.
+</sp>
+
+<sp who=ka>
+<speaker>Kooraanvoerder.</speaker>
+
+<l n=970>Breng gauw dan de orakels, dat de ouweheer
+<l>Ze kan vernemen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                 <l rend="hemistich(Ze kan vernemen.)">Zeker.
+</sp>
+
+<sp who=volk>
+<speaker>Volk</speaker> <stage rend=inline>(<hi>tot den Paphlagoniër</hi>).</stage>
+
+                        <l rend="hemistich(Ze kan vernemen. Zeker.)">Breng de uwe ook!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Vooruit.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+         <l rend="hemistich(Vooruit.)">Vooruit, bij Zeus, wij halen ze terstond.
+</sp>
+
+<stage type=exit>(<hi>Beiden af</hi>)</stage>
+
+<sp who=koor>
+<speaker>Koor</speaker> <stage rend=inline>(<hi>eerste helft</hi>).</stage>
+
+<l>Schoonste zonlicht dat ooit verscheen,
+<l>Welk een vreugde voor gansch Atheen,
+<l n=975>Voor den vreemdeling, voor elkeen,
+    <l rend="indent(4)">Ging slechts Kléon te gronde!
+<l>Maar er zijn ouderen van jaar,
+<l>Die hem helpen, alsof &apos;t hier waar
+<l id=v979>Altijd een Dertigprocesbazaar&mdash;
+    <l n=980 rend="indent(4)">Ons bestrijden&mdash;&apos;t is zonde!
+<l>Want hij zorgt, dus zeurt men wat,
+<l>Dat Atheen twee dingen bevat,
+<pb n=80><l>Die onmisbaar zijn in een stad:
+<l id=v984>&apos;n Lepel is &apos;t, en een stamper....
+
+<stage>(<hi>Tweede helft</hi>)</stage>
+
+<l n=985 id=v985>Hoort nu Kléon&apos;s muziekbedrog:
+<l>Wat vertelt ons de jeugd, die toch
+<l>Met hem op school ging, toen hij nog
+    <l rend="indent(4)">Was een kleine slampamper?
+<l>Dat hij eeuwig en altijd maar
+<l n=990>Streek op één en dezelfde snaar,
+<l>Of geen andere toon er waar&apos;,
+    <l rend="indent(4)">Zonder andre talenten&mdash;
+<l>Tot zijn leeraar, te goeder stond&apos;,
+<l>Hem als onleerzaam naar huis toe zond,
+<l n=995>Daar er voor hem geen klank bestond,
+    <l rend="indent(4)">Dan het gerol van centen!
+</sp>
+
+
+<div1 id=a18>
+<head>Achttiende tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Volk, Paphlagoniër, Worstverkooper, Koor.</hi></stage>
+
+
+<sp who=pap>
+<speaker>Paphlagoniër</speaker> <stage rend=inline>(<hi>met orakelrollen</hi>).</stage>
+
+<l>Kijk nu ereis hier! en &apos;k breng ze nog niet allemaal.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper</speaker>
+
+<stage>(<hi>met een nog grooter pak</hi>)</stage>
+
+<l>Ik word er wee van! en ik breng ze niet allemaal.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wat is dat?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+            <l rend="hemistich(Wat is dat?)">Orakels!
+</sp>
+
+<pb n=81><sp who=volk>
+<speaker>Volk.</speaker>
+
+              <l rend="hemistich(Wat is dat? Orakels!)">Zijn dat z&apos;alle?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+                               <l rend="hemistich(Wat is dat? Orakels! Zijn dat z&apos;alle?)">Wat vraag je toch?
+<l n=1000>Ik heb, bij Zeus, nog thuis een heele kist er van.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik heb nog twee huurhuizen en een zolder vol.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Laat kijken, van wie zouden deze orakels zijn?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l id=v1003>De mijne zijn van Bakis.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                         <l rend="hemistich(De mijne zijn van Bakis.)">En de uwe, van wie?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Van Glanis, die een oudere broêr van Bakis was.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1005>Wat staat er in?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+                 <l rend="hemistich(Wat staat er in?)">Ze handlen van Pylos, van Atheen,
+<l>Van u, van mij, ja over alles en nog veel meer.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>En die van u?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+              <l rend="hemistich(En die van u?)">O, over Athene en linzenbrei,
+<l>Over de Spartanen, over een nieuwe makreelensoort,
+<l>Over de valsche broodafwegers op de markt,
+<l n=1010>Over jou, over mij&mdash;verrekken mag die kerel daar!
+</sp>
+
+<pb n=82><sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Komaan, leest allebei nu je orakels op,
+<l>Ook dat over mij, waarin ik zoo&apos;n behagen schep,
+<l>Dat ik &bdquo;een aadlaar in de wolken&rdquo; worden zal.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Zoo luister en verleen mij een aandachtig oor.
+<l n=1015>&bdquo;Zoon van Erechtheus, let op den weg van uw woord, dat Apollo
+<l>&bdquo;Riep uit het duistere hol, omsloten door eervollen drievoet,
+<l>&bdquo;Red mij den hond, zoo beval hij, met snijdende tanden gewapend,
+<l>&bdquo;Die vóór u met dreigenden muil en verschrikkelijk buldrend
+<l>&bdquo;Loon aan u geeft, en zoodra hij dat niet doet gaat hij te gronde.
+<l n=1020>&bdquo;Want uit haat tegen hem hoort men vele raven al krassen.&rdquo;
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wat dat beteekent vat ik, bij Demeter, niet.
+<l>Wat heeft Erechtheus met een hond en een raaf te doen?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik ben de hond, want ik ben degeen die voor u blaft.
+<l>Apol beveelt u mij te redden, mij, den hond.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1025>Niet dàt zegt het orakel, maar wèl dat de hond
+<l>Aan uwe orakels knabbelt als aan tarwemeel,
+<l>In mijn orakels staat het rechte over dien hond.
+</sp>
+
+<pb n=83><sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Leg dat eens uit, ik neem een steen vast in mijn hand,
+<l>Als somtijds die orakelhond mij bijten wil.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1030>&bdquo;Zoon van Erechtheus, let op hond Kerberos, zielenverkooper,
+<l>&bdquo;Die u vleit met zijn staart, en die u beloert bij uw maaltijd,
+<l>&bdquo;Die, zoodra gij kijkt op zij, terstond al uw eten verorbert.
+<l>&bdquo;Die op de wijze der honden maar altijd staat voor de keuken,
+<l>&bdquo;En die des nachts alle schotels en ook alle&mdash;eilanden aflikt.&rdquo;
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1035>Die Glanis spreekt, bij Poseidon, een veel beter taal.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Hoor eerst, mijn beste, wat ìk heb, en oordeel dan:
+<l>&bdquo;Daar is een vrouw, die een leeuw zal baren in &apos;t heilig Athene,
+<l>&bdquo;Die tot heil van het volk met vele muggen zal vechten.
+<l>&bdquo;En zijn welpen beschut. Dien leeuw moet gij u bewaren,
+<l n=1040 id=v1040>&bdquo;Binnen uw muren van hout en binnen uw torens van ijzer.&rdquo;
+<l>Begrijpt gij dit?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                  <l rend="hemistich(Begrijpt gij dit?)">Ik snap er niets van, bij Apol.
+</sp>
+
+<pb n=84><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>De god beveelt u duidelijk dat gij mij redt,
+<l>Want ik ben toch de leeuw die u beschermen moet.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Je bent eer een Tegenleeuw, als ik je zoo noemen mag.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1045>Opzettelijk verzwijgt hij één ding van de spreuk,
+<l>Met ijzer heeft hij den muur bedoeld, en boeien ook,
+<l>Waardoor Apollo uwe redding mooglijk acht.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Hoe heeft de godheid dat bedoeld?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                  <l rend="hemistich(Hoe heeft de godheid dat bedoeld?)">Hij geeft bevel
+<l>Dat gij hem in vijfdubbele boeien binden zult.
+</sp>
+
+<sp who=volk>
+<speaker>Volk<corr>.</corr></speaker>
+
+<l n=1050>Het schijnt mij toe dat dit orakel wordt vervuld.
+<l>&bdquo;Doe niet zijn wil, want nijdig bekrassen u donkere raven,
+<l>&bdquo;Maar houd den havik te vriend, indachtig hoe hij u eenmaal
+<l>&bdquo;Redde, nadat hij met moed de Lakonische raafjes gepakt had.&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper</speaker> <stage rend=inline>(<hi>ter zijde</hi>).</stage>
+
+<l>&apos;t Was in een brooddronken bui dat de Paphlagoniër held was!
+
+<stage>(<hi>hardop</hi>)</stage>
+
+<l n=1055>&bdquo;Kekrops&apos; spruit, onbezonnen, acht gij die daad zoo gewichtig?
+<pb n=85><l>&bdquo;Zelfs eene vrouw draagt een last, zoodra als de man het haar oplegt,
+<l>&bdquo;Maar gaan vechten, dat nooit! Zij raakt in de Vecht met haar vechten.&rdquo;
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Hoor dat orakel ook eens, waar van Poort voor de Poort zoo iets inkomt,
+<l id=v1059>&bdquo;Daar is een Poort voor de Poort.&rdquo;
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                                   <l rend="hemistich(&bdquo;Daar is een Poort voor de Poort.&rdquo;)">Voor de Poort? wat zou dat beteekenen?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1060>Dat hij de kuipen in het badhuis stelen zal.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Zoodat &apos;k vandaag geen bad kan nemen, beste vriend?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ja zeker! want die kerel pakte de kuipen weg.
+<l>Nog is er één orakel, waarin voorkomt van
+<l>De zeevaart&mdash;let nauwkeurig op, wat dàt ons zegt.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1065>Lees op, ik luister, en ik zal ook zorgen dat
+<l>Vóór alles aan mijn zeelui &apos;t loon wordt uitgekeerd.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>&bdquo;Zoon van Aegeus, pas op dat u niet verschalke die hondsvot,
+<l>&bdquo;Gluiperig, snel als de wind, en slim als een vos en ervaren.&rdquo;
+<l id=v1069>Weet jij wie dàt is?
+</sp>
+
+<pb n=86>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                    <l rend="hemistich(Weet jij wie dàt is?)">O, de hondsvot Philóstratos.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1070>Dàt zegt hij niet, maar wèl dat Kléon telkens vraagt
+<l>Om schepen, waar hij belastingen mee innen kan,
+<l>En Apol verbiedt dat gij die voortaan geven zult.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wordt met een hondsvot ook wel eens een schip bedoeld?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Jawel, want honden en ook schepen loopen snel.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1075>Maar waarom spreekt hij ook van &bdquo;vos&rdquo; behalve &bdquo;hond?&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Hier worden met &bdquo;vosjes&rdquo; de soldaten wis bedoeld,
+<l id=v1077>Omdat ze druiven knabblen in &apos;t vijandlijk land.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Goed!
+      <l rend="hemistich(Goed!)">Maar zeg mij eens, hoe komen die vossen aan hun loon?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Daar zorg ik voor, drie dagen vooruit geef ik hun vast.
+<l n=1080 id=v1080>Hoor dit orakel nog aan: &bdquo;Apoll&rdquo; beveelt u Cyllene
+<l>&bdquo;Streng te vermijden, opdat het u niet door list moge vangen.&rdquo;
+</sp>
+
+<pb n=87><sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wat voor Cyllene?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                  <l rend="hemistich(Wat voor Cyllene?)">Hier wordt vast z&apos;n hand bedoeld,
+<l>&bdquo;Stil leenen&rdquo; meent hij, als hij stil z&apos;n hand ophoudt.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Dat is niet juist, want met Cyllene bedoelde Apollo
+<l n=1085>Zeker de lamme hand van den wichelaar Diopeithes.
+<l>Maar ook ik heb een spreuk, een gevleugeld woord, voor u bij mij,
+<l>Dat gij een adelaar wordt, en geheel onze aard zult beheerschen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik heb nog meer: ook de Roode Zee, niet alleen onze aarde,
+<l>Dat gij tot in Ecbatana recht zult spreken en smullen.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=1090>Maar ik zag in mijn droom dat de godheid zelf was verschenen,
+<l>En met een schenkkan over het volk heil strooide en welvaart.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik zag meer in mijn droom, want ik zag godinne Athene,
+<l>Die uit haar tempel trad, wijl een uil op haar hoofd was gezeten,
+<l>En toen plengde zij duidelijk uit hare flesch op uw voorhoofd
+<pb n=88><l n=1095>Ambrozijn, maar pekel en knoflook goot z&apos; op het zijne.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Hoera, hoera!
+              <l rend="hemistich(Hoera, hoera!)">De beste orakels zijn van Glanis, dat staat vast!
+<l>En ik vertrouw mij aan ùw zorgen, beste vriend,
+<l>Voer jij het oudje, en geef opnieuw hem onderwijs!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=1100>Nog niet, ik smeek je! wacht nog eventjes, totdat
+<l>Ik jou je haver en je dagelijksch brood verschaf.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Van haver wil ik niet hooren, ik ben veel te lang
+<l id=v1103>Door jou bedrogen, en ook door Theophanes.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik zal je brood verschaffen, netjes voorgekauwd.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1105>Ik lekkere broodjes, die je niet te bijten hebt,
+<l>En gebraden eten: eten is voortaan je heele taak.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Vooruit, een beetje gauw dan, wie van beiden nu
+<l>Ik vinden zal dat mij het meest heeft wèlgedaan,
+<l>Dien geef ik de teugels van de volksvergadering.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=1110>Ik ga het eerst naar binnen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                             <l rend="hemistich(Ik ga het eerst naar binnen.)">Neen, niet jij, maar ik!
+</sp>
+
+<stage type=exit>(<hi>Hij stoot hem terug. Beiden af</hi>)</stage>
+
+<pb n=89><sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>O Volk! hoe is toch uw rijk
+<l>Zoo schoon en grootsch tegelijk,
+<l>Daar ieder u vreest, in &apos;t slijk
+    <l rend="indent(4)">Zich werpt voor uw voeten.
+<l n=1115>Want licht ontvlambaar zijt gij,
+<l>Verlekkerd op vleierij,
+<l>En tuk op bedriegerij
+    <l id=v1118 rend="indent(4)">Van wie u ontmoeten!
+<l>Elk sprekertje gaapt gij aan,
+<l>Uw verstand schijnt op reis gegaan,
+<l n=1120>Nu duldt gij van elk voortaan
+    <l id=v1121 rend="indent(4)">Slechts vleien en groeten!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>In uw kruin, uw harendom
+<l>Zweeft geene gedachte om,
+<l>Want ik houd m&apos; opzettelijk dom,
+    <l rend="indent(4)">Ben niet onverstandig!
+<l n=1125>Verheugd is steeds mijn gemoed,
+<l>Wanneer men als kind mij voedt,
+<l>Wanneer ik een gids ontmoet,
+    <l rend="indent(4)">Die stelen kan, handig!
+<l>Doch als hij door euveldaân
+<l>Gevuld is en welbelaân,
+<l>Dan val ik hem plotsling aan,
+    <l n=1130 rend="indent(4)">En kwak hem lostandig!
+</sp>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l>Dat noem ik een wijs beleid,
+<l>Ik zie dat gij waakzaam zijt,
+<l id=v1332>En vol van scherpzinnigheid,
+    <l rend="indent(4)">Trots grijzende jaren!
+<l>Want ik merk, gij speelt er mee,
+<l>En gij fokt hen op als vee,
+<pb n=90><l n=1135>Om ze voor de meeting gedwee
+    <l rend="indent(4)">En vet te bewaren!
+<l>En als in uw keuken dan
+<l>Geen spijs meer verschijnen kan,
+<l>Dan slokt ge den vetsten man
+    <l n=1140 rend="indent(4)">Met huid en met haren!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Is dat niet een slim bestaan,
+<l>De lieden die in hun waan
+<l>Mij vreeselijk foppen gaan,
+    <l rend="indent(4)">Mij schijnbaar misleiden?
+<l n=1145>Hen ga ik voorzichtig na,
+<l>Voor hen voel ik geen genâ,
+<l>Zoodra als zij hun papa
+    <l rend="indent(4)">Oplichten en mijden&mdash;
+<l>Dan betrap ik hen terstond,
+<l>Onderzoek hen met mijn sond&apos;,
+<l>En laat uit hun dievenmond
+    <l n=1150 rend="indent(4)">Het braaksel weer glijden!
+</sp>
+
+
+<div1 id=a19>
+<head>Negentiende tooneel.</head>
+
+
+<stage type=entrance><hi rend=ex>Volk, De Paphlagoniër, De Worstverkooper, Koor.</hi></stage>
+
+
+<sp who=pap>
+<speaker>Paphlagoniër</speaker>
+
+<stage>(<hi>tot Worstverkooper</hi>)</stage>
+
+<l>Ga naar de eeuwige zaligheid.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                              <l rend="hemistich(Ga naar de eeuwige zaligheid.)">Jij, deugniet, eerst!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Heer Volk! ik ga hier zitten, want nu ben ik klaar
+<l>Om jou, zooals ik allang begeerde, wèl te doen.
+</sp>
+
+<pb n=91><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik ben ook allanger dan lang daartoe bereid,
+<l n=1155>Wel honderdmaal en duizendmalen langer dan lang.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Ik wacht op jullie, en dat valt me vreeslijk lang,
+<l>Want ik verafschuw al dat gedoe in mijn belang.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Weet je wat je doen moet?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                          <l rend="hemistich(Weet je wat je doen moet?)">Niet vóórdat jij &apos;t hebt gezegd.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Laat mij en hem een wedstrijd doen van meet af aan,
+<l n=1160>Wie jou het meeste weldoet.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                            <l rend="hemistich(Wie jou het meeste weldoet.)">Goed, dat zal ik doen.
+<l>Vooruit dan!
+</sp>
+
+<sp who=pap.wv>
+<speaker>Paphlagoniër en Worstverkooper.</speaker>
+
+             <l rend="hemistich(Vooruit dan!)">Kijk!
+</sp>
+
+<stage>(<hi>Ze loopen tegen elkaar, en komen niets verder</hi>)</stage>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                   <l rend="hemistich(Vooruit dan! Kijk!)">Waarom loop je niet!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                        <l rend="hemistich(Vooruit dan! Kijk! Waarom loop je niet!)">Je komt niet vooruit!
+</sp>
+
+<stage>(<hi>Hij stoot den Paphlagoniër terug</hi>).</stage>
+
+<sp who=volk>
+<speaker>Volk</speaker> <stage rend=inline>(<hi>terzijde</hi>).</stage>
+
+<l>Òf &apos;k heb vandaag door die twee minnaars een mooien dag,
+<pb n=92><l>Òf &apos;k zal, bij Zeus, voor altijd naar den drommel gaan.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Maar zie je niet, dat ik het eerst j&apos; een zetel geef?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1165>Een zetel, maar geen tafel&mdash;dat doe ik het eerst!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Kijk hier dat lekker broodje dat ik breng voor jou,
+<l>Dat geheel voor jou uit Pylische gerst gebakken is.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik breng je uitgeholde kruimels, beste heer,
+<l id=v1169>Door de godin met ivoren handen zelf gehold.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1170>Wat is uw vinger groot geweest, o heerscheres!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik breng je snert van goede kleur en lekkren smaak,
+<l id=v1172>Die Pallas Pylosstrijdster zelf heeft omgeroerd.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Heer Volk, &apos;t is duidelijk dat de godin je gunstig is,
+<l>Door mijne hand biedt zij j&apos; een pot met lekkere saus.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1175>Geloof jij soms dat j&apos; in de stad nog wonen zoudt,
+<l>Als zij niet duidlijk met haar pot ons gunstig was?
+</sp>
+
+<pb n=93><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>De Legerscharenverschrikster schenkt je dit brokje nog.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>De Sterkevadersdochter schenkt je gebraden vleesch,
+<l>Een stukje pens, een stukje darm en een stukje maag.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1180>Dat &apos;s mooi, dat zij nog voor haar feestkleed dankbaar is.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>De Helmbosfladderaarster biedt u dezen koek,
+<l>Opdat de schepen voortaan glijden als een koek!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Neem ook nog dit.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                  <l rend="hemistich(Neem ook nog dit.)">Wat moet ik met die darmen doen?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Die stukken zendt u de godin opzettelijk,
+<l n=1185>Om als ribstukken bij de schepen dienst te doen,
+<l>Want onze marine gaat haar blijkbaar aan het hart.
+<l>Hier heb je nog wat om te drinken, tweederdewijn.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Hoe heerlijk, Zeus! een godlijke drieëenigheid!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v1189>De Drieontsprotene heeft van drieën één gemaakt!
+</sp>
+
+<pb n=94><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=1190>Neem nu van mij een stukje aan van vetten koek.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Van mij geen stukje, maar een heelen koek ineens.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Jij kan hem niet van haas doen smullen, dat kan ik.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>O jee, hoe kom ik aan een stukje lekkeren haas?
+<l>M&apos;n beste geest! bedenk nu toch een loozen streek.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=1195>Zie je dat, jou schurk der schurken?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                     <l rend="hemistich(Zie je dat, jou schurk der schurken?)">&apos;k Geef er weinig om,
+<l>Want in de verte komen er lui, ik zie ze al,
+<l>Het zijn gezanten met een welgevulde beurs.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Waar, waar?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>&apos;t Raakt jou niet, laat de vreemden maar met rust.
+
+<stage>(<hi>Terwijl de Paphlagoniër kijkt, pakt de Worstverkooper de hazenpastei weg</hi>).</stage>
+
+<l>M&apos;n beste heer Volk, zie jij die mooie hazenpastei?
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër</speaker> <stage rend=inline>(<hi>terugloopende</hi>).</stage>
+
+<l n=1200>O jee, je hebt gestolen wat het mijne was!
+</sp>
+
+<pb n=95><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Jij hebt, bij de goôn, bij Pylos net als ik gedaan!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Hoe kwam j&apos;er toe te stelen, zeg mij dat eens gauw!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Een god schonk mij de gedachte, en den diefstal ik.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik heb de kans geloopen, ik den haas gebraân.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1205>Ga jij maat weg! ik dank het hem, hij bracht hem mee!
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l id=v1206>Ik ongelukkige! Ik word overonbeschaamd!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Kan je nòg niet onderscheiden, wie van beiden nu
+<l>Het meest aan jou en aan je maag heeft welgedaan?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Zeg nu, publiek, welk kenmerk ik gebruiken moet,
+<l n=1210>Dat &apos;k in uw oogen een rechtvaardig oordeel vel!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik zal &apos;t je zeggen. Neem in alle stilte maar
+<l>Mijn korf met spijzen, onderzoek wat daarin is,
+<l>En wat in zijn korf is&mdash;dan is rechtvaardig wàt je beslist!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Laat kijken, wat er in is.
+</sp>
+
+<pb n=96><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                            <l rend="hemistich(Laat kijken, wat er in is.)">Zie je niet, vaderlief,
+<l n=1215>Dat de heele korf al leeg is? Alles gaf &apos;k aan jou!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Dat is een korf die bij de volkspartij behoort!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Kijk nu eens naar den korf van den Paphlagoniër,
+<l>Zie je dat?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+            <l rend="hemistich(Zie je dat?)">Mijn hemel, nù nog vol van lekkernij!
+<l>Wat heeft hij daar een reuzenkoek apart gelegd!
+<l n=1220>En wat een schijntje heeft hij afgestaan aan mij!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Zoo heeft hij vroeger ook altijd met jou gedaan:
+<l>Hij gaf je mee van &apos;t kleinste dat hij zelf ontving,
+<l>En slokte zelf altijd de grootste brokken op.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>O schurk! die mij dus bedrogen en bestolen hebt!
+<l n=1225 id=v1225>&bdquo;En ik heb u met kransen en geschenk getooid!&rdquo;
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wanneer ik stal, dan was &apos;t in &apos;t voordeel van den staat.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Leg jij maar gauw je krans af, want ik dorst om hem
+<l>Daarmee te sieren.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                   <l rend="hemistich(Daarmee te sieren.)">Leg je krans af, galgebrok!
+</sp>
+
+<pb n=97><sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Dat doe ik niet, want ik bezit een Delfisch woord,
+<l n=1230>Waarin voorspeld is wie alleen mij kan verslaan.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Mijn naam wordt daarin al te duidelijk slechts genoemd.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Ik wil nu door bewijzen onderzoeken gaan,
+<l>Of jij met die orakelspreuk wel wordt bedoeld.
+<l>En daarom richt ik allereerst deez vraag aan u:
+<l n=1235>Ben jij als kind bij iemand op de school geweest?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v1236>In de varkenszengplaats ben &apos;k met vuisten grootgebracht.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Wat zeg je daar! &apos;t orakel brandt mij op de ziel.
+<l>En wat voor sport heb jij beoefend op je school?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Valsche eeden, stelen, en een onbeschoft gezicht.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l n=1240>O groote Febus Apollo, wat doet gij mij aan!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Ik leerde worstverkoopen&mdash;en wat zwijnerij.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>Helaas, helaas, het is voor goed met mij gedaan,
+<l>Een heel klein hoopje is nog &apos;t ééne waar &apos;k op drijf.
+<pb n=98><l n=1245 id=v1245>Zeg mij nu nog: verkocht jij beuling op de markt,
+<l>Of heb je &apos;t altijd vóór de poort der stad gedaan?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Wel, vóór de poort, want daar verkoopt men zoutevisch.
+</sp>
+
+<sp who=pap>
+<speaker>Paphlagoniër.</speaker>
+
+<l>O hemel, juist was de voorspelling van den god!
+<l>Verwijdert, dienaars! mij, den ongelukkige,
+<l n=1250>O krans, ga blijde weg van mij, ofschoon ik u
+<l>Niet willig loslaat: &apos;n ander wacht op uw bezit,
+<l>Geen grooter dief, maar wel een man van méér geluk.
+</sp>
+
+<stage>(<hi>Legt zijn krans af</hi>)</stage>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Hellenische Zeus, ù is de zege!
+</sp>
+
+<stage>(<hi>De slaven komen uit het huis</hi>)</stage>
+
+
+
+<div1 id=a20>
+<head>Twintigste tooneel.</head>
+
+<stage type=entrance><hi rend=ex>Dezelfden. Een slaaf. (Demosthenes).</hi></stage>
+
+
+<sp who=sl>
+<speaker>Slaaf.</speaker>
+
+<l>Heil u den overwinnaar, wees indachtig thans
+<l n=1255>Dat gij door mij de zege behaaldet. &apos;k Vraag u slechts
+<l id=v1256>Om als Phanos bij processen jouw griffier te zijn.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l id=v1257>En zeg mij nu hoe gij toch heet.
+</sp>
+
+<pb n=99><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                <l rend="hemistich(En zeg mij nu hoe gij toch heet.)">Agorákritos,
+<l>Want onder twisten op de markt ben ik opgevoed.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Dan vertrouw &apos;k mij voortaan toe aan Agorákritos,
+<l n=1260>En wil niets meer weten van dien Paphlagoniër.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>En ik zal heerlijk voor je zorgen, meester Volk,
+<l>Zoodat j&apos; erkent dat niemand beter in de stad
+<l id=v1263>Van de Praateners ooit verschenen is dan ik.
+</sp>
+
+<stage type=exit>(<hi>Alle acteurs verlaten het tooneel</hi>)</stage>
+
+<sp who=koor>
+<speaker>Koor.</speaker>
+
+<l id=v1264>Wat is er schooner dan in den beginne
+<l n=1265>Of aan het eind met vroolijken zinne
+<l>De temmers der brieschende rossen te zingen&mdash;
+<l>En Thumantis, die geen haard kan krijgen,
+<l>En Lysistratos te verzwijgen,
+<l>Niet met een spotvers hen te bespringen?
+<l n=1270>Hem, dien Apol altijd honger ziet lijden,
+<l>Hem, die de hand langs zijn koker laat glijden,
+<l>Weenend hem smeekt, of de godheid zijn lijden
+<l>Niet kan bedwingen?&mdash;
+
+<stage>(<hi>Toezang</hi>)</stage>
+
+<l id=v1274>Van de slechten kwaad te spreken werd door niemand ooit veracht,
+<l n=1275>Eerbied eisch ik voor de goeden, als men &apos;t ware en recht betracht.
+<l>Is in waarheid er een slechtaard, die verwijt en smaad verdient,
+<l>Dan behandel ik hem nimmer, bij de goden, als mijn vriend.
+<pb n=100><l>Niemand is er, waarde hoorders, die Arígnotos niet kent,
+<l>Wie maar zwart kan onderscheiden, of&mdash;&apos;t helklinkend instrument.
+<l n=1280>Deze man bezit een broeder, hem in wezen ongelijk:
+<l>De verloopen Ariphrádes, die met slechtheid loopt te kijk.
+<l>Hij is niet alleen een slechtaard, want misschien ontging het mij,
+<l>Niet alleen een aartsslampamper, maar hij vond nog dit er bij:
+<l>Dat hij eigen lichaamsdeelen afstaat voor ontaard genot,
+<l n=1285>En een beeld is der ontaarding midden in het hoerekot.
+<l>Hij bezoedelt baard en lippen, altijd dierlijk, altijd los,
+<l>Zingt uit Polymnéstes&apos; liedjes, frequenteert Oeónichos.
+<l>Wie voor zoo&apos;n verloopen kerel nu geen afschuw voelt en schrik,
+<l>Wordt veroordeeld nooit te drinken uit hetzelfde glas als ik.
+
+<stage>(<hi>Tegenkoor</hi>)</stage>
+
+<l n=1290>Dikwijls kwam mij in slaaplooze nachten
+<l id=v1291>De veelvraat Kleónymos in gedachten,
+<l>Hoe lukt het hem altijd maar eten te krijgen?
+<l>Hij spint altijd als een spin zijn webbe
+<l>Om het eten en drinken van hen die het hebben,
+<l n=1295>En hun tafel beschouwt hij maar als zijn eigen!
+<l>En zij&mdash;zij bidden en smeeken zeer:
+<l>&bdquo;Op de knieën verzoek ik u, edel heer,
+<l>&bdquo;Verlaat mijn tafel toch dezen keer!&rdquo;
+<l>Doch vergeefs is hun dreigen.
+
+<pb n=101><stage>(<hi>Tweede Toezang</hi>)</stage>
+
+<l n=1300>Men verhaalt, de drieriemschepen hielden eens vergadering,
+<l id=v1301>En dat een der oudste kielen toen aldus aan &apos;t spreken ging:
+<l>&bdquo;Dames! heb je niet vernomen waarvan heel de stad gewaagt?
+<l>Iemand heeft pas voor Karthago honderd schepen aangevraagd.
+<l>&apos;t Is die slechtbefaamde burger, &apos;t is die zure Hypérbolos!&rdquo;
+<l n=1305>Toen de dames dat nu hoorden, brak een luid gemompel los,
+<l>En één van de kielen, die nog door geen manlief was betreên,
+<l>Riep: &bdquo;de hemel moog mij bestaan, mij gebiedt hij nimmer, neen!
+<l>Liever moge ik van den houtworm rotten tot mijn ouden dag!&rdquo;
+<l>Juffrouw Schepers zei hetzelfde: &bdquo;neen, ik duld niet zijn gezag!&rdquo;
+<l n=1310>Niet voor niets ben ik getimmerd uit het kostbaar pijnboomhout!&rdquo;
+<l>Als d&apos; Atheners dàt besluiten, varen w&apos; allen, jong en oud
+<l>Naar der Eumeniden tempel en naar Theseus&apos; godshuis heen,
+<l>Want als wij maar kommandeeren fopt hij niet geheel Atheen;
+<l>Laat hem naar den drommel zeilen, laat hem voor zijn kraaientocht
+<l n=1315>Maar de bakken te water laten, waar hij zijn lampjes in verkocht.&rdquo;
+</sp>
+
+
+
+<pb n=102>
+<div1 id=a21>
+<head>Een en twintigste tooneel.</head>
+
+<stage type=entrance><hi rend=ex>De worstverkooper. Het koor.</hi></stage>
+
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Elk zwijge aandachtig en sluite den mond, weg met alle getuigenverhooren,
+<l>Men sluite terstond alle rechtbanken ook, waarin deze stad zich verlustigt,
+<l>En over ons onverhoopte geluk juich&apos; de heele schouwburg van blijdschap!
+</sp>
+
+
+<sp who=ka>
+<speaker>Kooraanvoerder.</speaker>
+
+<l>O morgenlicht voor het heilig Atheen, o aller eilanden toevlucht,
+<l n=1320>Wat brengt gij ons voor voorspoedig bericht, dat de straten zich vullen met vetdamp?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Heer Volk heb ik door koken verjongd&mdash;van een leelijkert maakte ik een prachtvent.
+</sp>
+
+<sp who=ka>
+<speaker>Kooraanvoerder.</speaker>
+
+<l>En waar is hij thans, o menschenvriend van bewonderenswaardige vinding?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v1324>Hij woont in ons viooltjesbekranst, in ons oud eerwaardig Athene.
+</sp>
+
+<sp who=ka>
+<speaker>Kooraanvoerder.</speaker>
+
+<l>Hoe hem te zien? hoe is hij gekleed? wat is hij voor kerel geworden?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1325>Zooals hij met Aristides eens, met Miltiades aanzat ten maaltijd,
+<pb n=103><l>Aanschouwt hem zelf, want ik hoor reeds gedruisch van een plechtig geopende voorpoort.
+<l>Juicht allen in koor bij het blijde gezicht van het oud eerwaardig Athene,
+<l>Elks lofzang, ieders bewondering waard, waar het roemruchte Volk nu gaat wonen.
+</sp>
+
+<sp who=ka>
+<speaker>Kooraanvoerder.</speaker>
+
+<l>O gezondheidstralend, viooltjesbekranst, en benijdenswaardig Athene,
+<l n=1330>Toon ons wie nu over Hellas alleen en ook over dit land zal gebieden.
+</sp>
+
+
+
+
+<div1 id=a22>
+<head>Twee en twintigste tooneel.</head>
+
+<stage type=entrance><hi rend=ex>Dezelfden. Volk.</hi></stage>
+
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v1331>Daar is hij te zien, met een krekel getooid, vol geschitter naar d&apos;oude gestalte,
+<l>Naar wapenstilstand, niet slakken riekt hij, als gezalfd met de heerlijkste myrre.
+</sp>
+
+<sp who=ka>
+<speaker>Kooraanvoerder.</speaker>
+
+<l>Heil u, der Hellenen koning voortaan! want wij deelen van harte in uw blijdschap,
+<l>Gij handelt zooals het betaamt aan den staat, en aan Marathon&apos;s zegetrofeeën!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1335>O liefste mij der mannen, kom, Agorákritos!
+
+<stage>(<hi>de Worstverkooper nadert</hi>)</stage>
+
+<l>Wat deedt gij goed met uw verjongingskuur!
+</sp>
+
+<pb n=104><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                                      <l rend="hemistich(Wat deedt gij goed met uw verjongingskuur!)">Wat? ik?
+<l>M&apos;n beste man, je weet niet hoe je vroeger was,
+<l>En wat je deed&mdash;je hieldt mij anders voor een god.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wat deed ik dan vroeger, en hoe was ik vroeger dan?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1340>Wel, vroeger, als men zei in de volksvergadering:
+<l>&bdquo;O Volk, ik houd zooveel van jou, van jou alleen,
+<l>&bdquo;Ik wil voor je zorgen, ik alleen ben j&apos; echte vriend,&rdquo;
+<l>Als iemand met die praatjes aan zijn speech begon,
+<l>Dan stak je je kuif op, toonde je horens&mdash;
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                                           <l rend="hemistich(Dan stak je je kuif op, toonde je horens&mdash;)">Deed ik dat?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1345>En met zulke woorden werd je telkens wéér bedot.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Wat zeg je, dat gebeurde, en ik merkte &apos;t niet?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Omdat, bij Zeus, je ooren als een zonnescherm
+<l>Te zamen klapten en zich dan weer openden!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Was ik zoo dom, zoo&apos;n onbedachtzame ouweheer?
+</sp>
+
+<pb n=105><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l n=1350>En als er een stel redenaars aan &apos;t spreken was,
+<l>En d&apos; een voor oorlogsschepen pleitte&mdash;d&apos; andere
+<l>Voor staatsgeld aan salarissen&mdash;wist de ééne man
+<l>Zijn vijand te overtroeven, en kneep daadlijk uit.
+
+<stage>(<hi>Volk geeft teekens van schaamte</hi>)</stage>
+
+<l>Zeg, waarom bukt g&apos; u? blijft ge niet zooals ge waart?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1355>Ik schaam mij voor de verkeerde daden van voorheen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat was ùw schuld niet, heb daarover maar geen zorg,
+<l>Dat deden zij die u bedrogen. Zeg me nu:
+<l>Wanneer een schurk van een aanklager nu tot u zegt:
+<l>&bdquo;Je zult geen brood meer hebben, heeren rechters, hoor,
+<l n=1360>&bdquo;Wanneer je niet dat vonnis velt zooals ik wil.&rdquo;
+<l>Wat zal je doen met zulk een valschen beschuldiger?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l id=v1362>Ik til hem op, en gooi hem in den afgrond neer,
+<l>En aan zijn nek mag slingeren&mdash;Hypérbolos.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat is verstandig, dat &apos;s nu eens naar recht gezeid!
+<l n=1365>Vertel nù, wat je verdere politiek zal zijn.
+</sp>
+
+<pb n=106><sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Ten eerste betaal ik, wie op oorlogsschepen dient,
+<l>En van den tocht terugkeert, het volledig loon.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Dat geeft pleizier aan velen, wier zitvlak pijn gaat doen.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Elk, verder, die ingeschreven voor de militie is,
+<l n=1370>Zal niet door invloeden van zijn plaats verwisselen,
+<l>Maar zal ingeschreven blijven evenals voorheen.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper</speaker> <stage rend=inline>(<hi>ter zijde</hi>).</stage>
+
+<l id=v1372>&apos;t Zal spijten aan het handvatsel van Kleónymos.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Geen baardelooze zal meer koopen op de markt.
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l id=v1374>Waar moet dan voortaan Strato koopen en Klisthenes?
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1375>&apos;k Bedoel die heertjes, die steeds bij den kapper zijn,
+<l>En die daar zittend converseeren zooals volgt:
+<l>&bdquo;Wat knappe vent die Phaeax, en wat leerd&apos; ie goed!&rdquo;
+<l>&bdquo;Zijn argumenten, zijn conclusies zijn perfekt,&rdquo;
+<l>&bdquo;Hij spreekt met geur, is een orateur en een charmeur,&rdquo;
+<l n=1380>&bdquo;En op de meetings heeft hij nimmer een malheur.&rdquo;
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Sla dien kerel op z&apos;n achterste met z&apos;n gezeur!
+</sp>
+
+<pb n=107><sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>&apos;k Stuur al die heertjes nog veel liever op de jacht.
+<l>En zal ze leeren af te laten van politiek.
+</sp>
+
+<stage>(<hi>Een slaaf brengt Volk een zetel</hi>)</stage>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Wanneer dat waar is, neem dan dezen klapstoel aan,
+<l n=1385>En een sterken jongen, die hem voor je dragen zal:
+<l>Maak hem desnoods tot klapstoel zelf, wanneer je wilt.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Ik zalige kom in mijn oude levenswijs!
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Door dat ik jou een wapenstilstand van dertig jaar
+<l id=v1389>In levenden lijve aanbied. Wapenstilstand, hier!
+</sp>
+
+<stage>(<hi>Men brengt een kruik wijn</hi>)</stage>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l n=1390>O groote Zeus! hoe heerlijk is dat, bij de goôn,
+<l>Mag ik een aanval op dien wapenstilstand doen?
+
+<stage>(<hi>Worstverkooper geeft den oude de kruik</hi>)</stage>
+
+<l>Waar haalde je dien vandaan?
+</sp>
+
+<sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+                             <l rend="hemistich(Waar haalde je dien vandaan?)">De Paphlagoniër
+<l>Heeft die maar altijd binn&apos; in huis voor jou verstopt,
+<l>Pak aan nu! moge de wapenstilstand spoedig gaan
+<l n=1395>Naar &apos;t platteland!
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+                    <l rend="hemistich(Naar &apos;t platteland!)">En zeg den Paphlagoniër,
+<l>Die dat gedaan heeft, dat een strenge straf hem wacht.
+</sp>
+
+<pb n=108><sp who=wv>
+<speaker>Worstverkooper.</speaker>
+
+<l>Die straf zal wezen dat hij mijn beroep erlangt;
+<l>Alleen zal hij zijn beuling verkoopen voor de poort,
+<l>Ook zal hij knoeien met ezel- en met hondenvleesch,
+<l n=1400>En dronken zal hij met meiden aan het schelden gaan,
+<l>En &apos;t water drinken, dat in de badkuip over is.
+</sp>
+
+<sp who=volk>
+<speaker>Volk.</speaker>
+
+<l>Dat &apos;s goed bedacht, want zulk een loon heeft hij verdiend,
+<l>De meiden en de badknechten&mdash;daar hoort hij bij.
+<l>Jou daarentegen roep ik thans naar het stadhuis,
+<l n=1405>En op dien zetel, waar hij zat, de galgebrok.
+<l>Hier, neem dit groene feestkleed aan, en volg mij thans!
+</sp>
+
+<milestone unit=tb rend=asterism>
+
+<sp who=volk>
+<l>Breng hem naar buiten, toon hem zijn nieuw vak bovendien,
+<l id=v1408>Dat de vreemde, steeds door hem geplaagd, het ook mag zien!
+</sp>
+
+<stage>(<hi>Slaven sleepen den Paphlagoniër aan handen en voeten mee, die als beulingventer, in de kleeren van den Worstverkooper, naar buiten wordt gegooid. Agorákritos, in feestkleed, volgt met het koor meester Volk</hi>).</stage>
+
+
+<trailer rend="align(center)">Einde.</trailer>
+
+
+
+<pb n=109>
+</body>
+<back id=backmatter>
+<div1 type=Notes id=ophelderingen>
+<head>Korte ophelderingen bij de Ridders van Aristofanes.</head>
+
+
+<p>
+
+<table>
+<row><cell>Vs.  <cell><ref target=v15>15</ref> <cell>Parodie van Euripides.
+<row><cell>Vs.  <cell><ref target=v17>17</ref> <cell>Ongeveer &bdquo;Ik heb geen lef in mijn donder.&rdquo;
+<row><cell>Vs.  <cell><ref target=v19>19</ref> <cell>Toespeling op Euripides&apos; moeder, die groentevrouw was.
+<row><cell>Vs.  <cell><ref target=v31>31</ref> <cell>Parodie van een onbekend dichter.
+<row><cell>Vs.  <cell><ref target=v42>42</ref> <cell>Démos Pyknítes, Démos van de Pnyx (heuvel waar het volk vergaderde).
+<row><cell>Vs.  <cell><ref target=v51>51</ref> <cell>Drie obolen = ongeveer een kwartje, was de bezoldiging der rechters.
+<row><cell>Vs.  <cell><ref target=v55>55</ref> <cell>Poging om de Grieksche woordspelingen terug te geven. Demosthenes herinnert aan zijne verdiensten bij Pylos.
+<row><cell>Vs.  <cell><ref target=v107>107</ref> <cell>Zware roode wijn, afkomstig van den berg Pramnos op het eiland Ikaros.
+<row><cell>Vs.  <cell><ref target=v123>123</ref> <cell>Bakis, beroemde oude waarzegger.
+<row><cell>Vs.  <cell><ref target=v159>159</ref> <cell>Parodie van een onbekend (tragisch) dichter, zooals ontelbare malen bij Aristofanes.
+<row><cell>Vs.  <cell><ref target=v197>197</ref> <cell>vgl. Parodie op den ouderwetschen epischen vorm en stijl der orakels.
+<row><cell>Vs.  <cell><ref target=v215>215</ref> <cell>Woordspeling van démos = volk, en demós = vet. (Verschil van klemtoon).
+<pb n=110><row><cell>Vs.  <cell><ref target=v230>230</ref> <cell>Een klassieke plaats voor de politiek en de schouwburgtoestanden in Athene.
+<row><cell>Vs.  <cell><ref target=v237>237</ref> <cell>Dadelijk bij zijn eerste optreden komt de Paphlagoniër (Kléon) met verzonnen beschuldigingen, als een echte sykofant.
+<row><cell>Vs.  <cell><ref target=v242>242</ref> <cell>Simon en Panaetios, aanvoerders van de ridders, overigens onbekend.
+<row><cell>Vs.  <cell><ref target=v254>254</ref> <cell>Eukrates, volksleider, door A. bespot.
+<row><cell>Vs.  <cell><ref target=v265>265</ref> <cell>De tekst is hier (en elders) jammerlijk bedorven, ik tracht er een zin aan te geven.
+<row><cell>Vs.  <cell><ref target=v279>279</ref> <cell>Woordspeling, in plaats van scheepsmateriaal levert die kerel (zegt de Pa.) soepmateriaal aan den vijand der Atheners.
+<row><cell>Vs.  <cell><ref target=v321>321</ref> <cell>Plaatsje bij Athene. &bdquo;Vóórdat ik ver buiten Athene was, waren reeds mijn gekochte zolen onbruikbaar.&rdquo;
+<row><cell>Vs.  <cell><ref target=v327>327</ref> <cell>De zoon van Hippodamos, Archeptolemos, aristokraten te Athene, geestverwanten van A. en vijanden van Kléon en de demokratie.
+<row><cell>Vs.  <cell><ref target=v347>347</ref>&ndash;350 <cell>Nog tegenwoordig van toepassing op vele &bdquo;demokratische&rdquo; sprekers en leiders.
+<row><cell>Vs.  <cell><ref target=v355>355</ref>&ndash;358 <cell>Toespelingen op Pylos en den Peloponnesischen oorlog.
+<row><cell>Vs.  <cell><ref target=v361>361</ref> <cell>Een duistere politieke toespeling.
+<row><cell>Vs.  <cell><ref target=v375>375</ref> <cell>vlg. Demosthenes stelt voor een proef met hem te nemen, zooals men varkens behandelt.
+<row><cell>Vs.  <cell><ref target=v392>392</ref> <cell>&bdquo;hij sneed riemen van anderman&apos;s leêr,&rdquo; met het oog op Kléon&apos;s bedrijf als leerlooier.
+<row><cell>Vs.  <cell><ref target=v394>394</ref> <cell>Dit slaat op de te Athene gevangen Spartanen van het eiland Sfakteria.
+<row><cell>Vs.  <cell><ref target=v400>400</ref>&ndash;401 <cell>Misschien toespelingen op den dichter Kratinos als dronkaard; Morsimos wordt vaak als slecht tragisch dichter bespot.
+<row><cell>Vs.  <cell><ref target=v407>407</ref> <cell>Dit is eene voor ons duistere toespeling, zooals vaak bij A.
+<pb n=111><row><cell>Vs.  <cell><ref target=v433>433</ref> <cell>&bdquo;uitvaren&rdquo; is dubbelzinnig. Ook de Gr. tekst slaat op wind en zeevaart.
+<row><cell>Vs.  <cell><ref target=v448>448</ref> <cell>vlg. Altemaal woordspelingen, die in het Ned. moeielijk zijn weer te geven.
+<row><cell>Vs.  <cell><ref target=v462>462</ref> <cell>Kléon spreekt in timmermanstaal, om zich populair te maken.
+<row><cell>Vs.  <cell><ref target=v475>475</ref> <cell>vlg. Alles parodie op het gemeene verklikkerige karakter van Kléon.
+<row><cell>Vs.  <cell><ref target=v511>511</ref> <cell>Typhon, een mythologisch ondier, waarmede A. Kléon vereenzelvigt.
+<row><cell>Vs.  <cell><ref target=v529>529</ref>&ndash;530 <cell>Aanhalingen uit een blijspel van Kratinos (Cratinus, bij Horatius), met Eupolis en Aristofanes de grootste blijspeldichter.
+<row><cell>Vs.  <cell><ref target=v534>534</ref> <cell>Kónnos, beroemd citherspeler, doodarm gestorven.
+<row><cell>Vs.  <cell><ref target=v537>537</ref> <cell>Krátes, ook een bekend kluchtspelschrijver.
+<row><cell>Vs.  <cell><ref target=v563>563</ref> <cell>Phormion, een populair Atheensch admiraal.
+<row><cell>Vs.  <cell><ref target=v566>566</ref> <cell>het kleed = de péplos, plechtig aan Athene gebracht in den optocht der Panathenaeën.
+<row><cell>Vs.  <cell><ref target=v579>579</ref>&ndash;580 <cell>Met andere woorden, dat de ridders, zoodra de vrede gesloten is, weer als van ouds toilet kunnen maken, en als menschen van stand voor den dag kunnen komen.
+<row><cell>Vs.  <cell><ref target=v595>595</ref> <cell>vlg. Het ridderkoor verhoogt het komisch effekt, door een loflied op de paarden, als een soort van stand. Al de nu volgende verzen slaan op een plundertocht, door Nikias met behulp van Atheensche ridders ondernomen, wier paarden in speciaal daarvoor ingerichte transportschepen waren overgebracht. De woordspelingen en toespelingen in vs. 600&ndash;610 gaan echter meestal voor ons verloren.
+<row><cell>Vs.  <cell><ref target=v615>615</ref> <cell>Nicobulus = Winraad, vgl. Thrasybulus = Koenraad.
+<pb n=112><row><cell>Vs.  <cell><ref target=v641>641</ref> <cell>&bdquo;het traliewerk,&rdquo; waardoor de leden van den raad en van de rechtbanken van het publiek werden afgesloten. De worsthandelaar of beulingventer paradeert hier met zijn onbeschaamdheid. De geheele passage, vs. 624&ndash;682, is een uitmuntende parodie van een Atheensche raadszitting.
+<row><cell>Vs.  <cell><ref target=v697>697</ref> <cell>in het Gr. den &bdquo;móthoon&rdquo; dansen = een plompe onfatsoenlijke dans = ongeveer een &bdquo;negerdans,&rdquo; een &bdquo;cake-walk.&rdquo;
+<row><cell>Vs.  <cell><ref target=v728>728</ref> <cell>Een soort oogstkrans, een twijg, voor de huisdeur opgehangen, als goed voorteeken.
+<row><cell>Vs.  <cell><ref target=v744>744</ref> <cell>De worsthandelaar overtreft Kléon telkens, door plattere voorbeelden en grootere gemeenheid.
+<row><cell>Vs.  <cell><ref target=v762>762</ref> <cell>Voorbeeld, aan een zeeslag ontleend.
+<row><cell>Vs.  <cell><ref target=v765>765</ref> <cell>Drie beruchte sujetten te Athene.
+<row><cell>Vs.  <cell><ref target=v786>786</ref> <cell>Harmodios (en Aristogiton), moordenaars van den tiran Hipparchos, als martelaars der vrijheid te Athene vereerd.
+<row><cell>Vs.  <cell><ref target=v794>794</ref> <cell>Archeptólemos, vgl. vs. <ref target=v327>327</ref>.
+<row><cell>Vs.  <cell><ref target=v813>813</ref> <cell>Parodie op den Telephos van Euripides.
+<row><cell>Vs.  <cell><ref target=v877>877</ref> <cell>Kléon snoeft dat hij een zekeren Gryttos, een homosexueel, zijn burgerschapsrechten had doen ontnemen.
+<row><cell>Vs.  <cell><ref target=v895>895</ref> <cell>Silphium, laserpitium, was een duur stimulans, bij gerechten gebruikt, en bewerkte diarrhee, enz. Vandaar ook de woordspeling in vs. 899.
+<row><cell>Vs.  <cell><ref target=v901>901</ref> <cell>Die Roodkop = Kléon.
+<row><cell>Vs.  <cell><ref target=v927>927</ref> <cell>vlg. Kléon wordt voorgesteld als een lekkerbek, die van smulpartijtjes naar de volksvergadering loopt.
+<row><cell>Vs.  <cell><ref target=v948>948</ref> <cell>&bdquo;je zegelring.&rdquo; De slaaf die voor het huishouden zorgde (tamias), had den zegelring <pb n=113>van zijn heer, en alles achter slot en grendel.
+<row><cell>Vs.  <cell><ref target=v954>954</ref> <cell>Woordspeling van demós = vet, en démos = volk, (vgl. vs. <ref target=v215>215</ref>.)
+<row><cell>Vs.  <cell><ref target=v958>958</ref> <cell>Kleónymos, de Grieksche Falstaff, steeds door A. bespot.
+<row><cell>Vs.  <cell><ref target=v969>969</ref> <cell>Toespeling <hi rend=ex>op</hi> een politiek proces uit dien tijd (?)
+<row><cell>Vs.  <cell><ref target=v979>979</ref> <cell>Toespeling op een soort winkel in de havenstad Piraeus, die ik met een toespeling op onze &bdquo;dertigcentbazaars&rdquo; tracht weer te geven.
+<row><cell>Vs.  <cell><ref target=v984>984</ref> <cell>Met z&apos;n lepel en z&apos;n stamper (dingen in een keuken onmisbaar) werkt Kléon in de staatskeuken, in de staatshuishouding.
+<row><cell>Vs.  <cell><ref target=v984>985</ref>&ndash;95 <cell>Een poging om de Gr. woordspelingen van het oorspronk. eenigszins terug te geven.
+<row><cell>Vs.  <cell><ref target=v1003>1003</ref> <cell>Bakis (en Glanis), (vgl. vs. <ref target=v123>123</ref>.)
+<row><cell>Vs.  <cell><ref target=v1040>1040</ref> <cell>Toespeling op het beroemde orakel, dat de Atheners ontvingen voor de aankomst van Xerxes.
+<row><cell>Vs.  <cell><ref target=v1059>1059</ref> <cell>Woordspelingen met Pylos, in Messenië, het tooneel van Kléons heldendaden. Pylos beteekent &bdquo;poort.&rdquo; Ook vs. 1060 bevat in het Gr. een woordspeling, die in het Ned. verloren gaat. Maar zelfs in den oorspr. tekst zijn hier alle toespelingen niet duidelijk.
+<row><cell>Vs.  <cell><ref target=v1069>1069</ref> <cell>Philóstratos, berucht koppelaar te Athene.
+<row><cell>Vs.  <cell><ref target=v1077>1077</ref> <cell>Toespeling daarop dat de soldij der Attische soldaten niet geregeld werd uitbetaald.
+<row><cell>Vs.  <cell><ref target=v1080>1080</ref>&ndash;85 <cell>Een reeks van woordspelingen op toen aktueele feiten en personen.
+<row><cell>Vs.  <cell><ref target=v1103>1103</ref> <cell>Theophanes, waarschijnl. een handlanger van Kléon.
+<pb n=114><row><cell>Vs. <cell><ref target=v1118>1118</ref> <cell>Woordelijk: &bdquo;Uw verstand, o volk, is aanwezig, en toch op reis.&rdquo;
+<row><cell>Vs.  <cell><ref target=v1121>1121</ref> <cell>vlg. Deze beurtzang is de scherpste satire op de demokratie, die ooit geschreven werd.
+<row><cell>Vs.  <cell><ref target=v1169>1169</ref> <cell>Het kolossale beeld van Athene in het Parthenon, door Phidias uit ivoor en goud gemaakt.
+<row><cell>Vs.  <cell><ref target=v1172>1172</ref> <cell>&bdquo;Pylosstrijdster,&rdquo; enz. Al deze namen der godin Athene zijn parodistisch gebruikt.
+<row><cell>Vs.  <cell><ref target=v1189>1189</ref> <cell>Woordspeling met den bijnaam van Athene, als Pallos Tritogeneia.
+<row><cell>Vs.  <cell><ref target=v1206>1206</ref> <cell>d. i. ik word in onbeschaamdheid overvleugeld.
+<row><cell>Vs.  <cell><ref target=v1225>1225</ref> <cell>Parodie van een onbekend treurspeldichter.
+<row><cell>Vs.  <cell><ref target=v1236>1236</ref> <cell>Volgens de uitleggers een plaats waar men geslachte varkens de borstels afzengde.
+<row><cell>Vs.  <cell><ref target=v1245>1245</ref>&ndash;46 <cell>Op de markt verkoopen was fatsoenlijker dan vóór de poort.
+<row><cell>Vs.  <cell><ref target=v1256>1256</ref> <cell>Phanos, particulier secretaris van Kléon?
+<row><cell>Vs.  <cell><ref target=v1257>1257</ref> <cell>Agorákritos, kan als meneer &bdquo;Markttwist,&rdquo; of zoo iets, worden vertaald.
+<row><cell>Vs.  <cell><ref target=v1263>1263</ref> <cell>&bdquo;Praat&bdquo;eners zijn de Atheners in de oudheid geweest, en zijn het nu nog.
+<row><cell>Vs.  <cell><ref target=v1264>1264</ref> <cell>vgl. Spotternij tegen bekende Atheensche sujetten.
+<row><cell>Vs.  <cell><ref target=v1274>1274</ref> <cell>vlg. De dichter geeselt hier alweer bekende en beruchte Atheensche sujetten.
+<row><cell>Vs.  <cell><ref target=v1291>1291</ref> <cell>Kleónymos, vgl. vs. <ref target=v958>958</ref>.
+<row><cell>Vs.  <cell><ref target=v1301>1301</ref> <cell>vlg. Parodie op den lompenkoopman Hypérbolos, steeds door A. bespot, een verloopen demokraat, die een tocht tegen Karthago schijnt te hebben ondernomen.
+<row><cell>Vs.  <cell><ref target=v1324>1324</ref> <cell>&bdquo;viooltjesbekranst&rdquo; uit een beroemd loflied van Pindaros op Athene ontleend.
+<row><cell>Vs.  <cell><ref target=v1331>1331</ref> <cell>De krekel (cicade) werd door de Atheners <pb n=115>gedragen, als zinnebeeld van hun oud geslacht, en als autochthonen (in het land zelf geborenen).
+<row><cell>Vs.  <cell><ref target=v1332>1332</ref> <cell>Slakken, kleine slakjes bezigden de rechters bij het stemmen. Dit vers beteekent dus &bdquo;hij riekt niet meer naar processen.&rdquo;
+<row><cell>Vs.  <cell><ref target=v1362>1362</ref> <cell>Hypérbolos, vlg. vs. <ref target=v1301>1301</ref>.
+<row><cell>Vs.  <cell><ref target=v1372>1372</ref> <cell>Kleónymos wordt hier en elders als lafaard, als &bdquo;schildwegwerper&rdquo; bespot.
+<row><cell>Vs.  <cell><ref target=v1374>1374</ref> <cell>A. bespot telkens de &bdquo;heertjes&rdquo; van zijn tijd. De volgende verzen parodieeren de gemaniereerde taal van die &bdquo;viveurs.&rdquo;
+<row><cell>Vs.  <cell><ref target=v1389>1389</ref> <cell>vlg. De woordspeling gaat hier verloren, omdat het Gr. woord &bdquo;plengoffer&rdquo; en &bdquo;wapenstilstand&rdquo; beteekent. Het Atheensche volk had recht op wapenstilstand sedert 445 v. C., maar Kléon had door zijn oorlogszuchtig optreden als het ware dien wapenstilstand weggestopt.
+<row><cell>Vs.  <cell><ref target=v1408>1408</ref> <cell>De vreemdelingen, die voor de Dionysos-feesten naar Athene kwamen, moeten de bestraffing van Kléon bijwonen.
+</table>
+
+
+
+<pb n=116>
+<div1 id=ads type=Advertisements>
+<head>Tooneelwerken</head>
+
+
+<p>verschenen in de WERELD-BIBLIOTHEEK en de NEDERLANDSCHE BIBLIOTHEEK.
+
+
+<p>1e JAARGANG.
+
+<p>HENRIK IBSEN, De Steunpilaren der Maatschappij. Vertaald door <hi rend=sc>F. Kapteijn</hi>, met inleiding van L. S. (W.B. no. 4).
+
+<p>MOLIÈRE, De Schelmenstreken van Scapin. Vertaald door <hi rend=sc>S. J. Bouberg-Wilson</hi> (W.B. no. 16).
+
+<p>FRIEDRICH HEBBEL, Maria Magdalena. Vertaald door <hi rend=sc>Louis Landry</hi> (W.B. no. 19).
+
+<p>SHAKESPEARE, Coriolanus. Vertaald door dr. <hi rend=sc>Edw. B. Koster</hi> (W.B. no. 21).
+
+
+<p>2e JAARGANG.
+
+<p>BJ. BJÖRNSON, Boven menschelijke Kracht. Vertaald door <hi rend=sc>Marg. Meyboom</hi>, met inleiding door L.S. (W.B. nos. 36/37).
+
+<p>HENRIK IBSEN, Een Poppenhuis (Nora). Vertaald door <hi rend=sc>Marg. Meyboom</hi>, met inleiding door L. S. (W.B. no. 40).
+
+<p>GERHART HAUPTMANN, De verzonken Klok. Vertaald en ingeleid door Mr. <hi rend=sc>Isidore Hen</hi> (W.B. no. 43).
+
+<p>SOPHOCLES, Antigone. Vertaald door dr. <hi rend=sc>H. C. Muller</hi> (W.B. no. 44).
+
+<p>J. A. SIMONS-MEES, De Veroveraar. (N. B. no. I).
+
+<p>MULTATULI, Vorstenschool. Met voorwoord van Mevr. <hi rend=sc>Douwes Dekker-Schepel</hi> (N. B. no. XVIII).
+
+
+<p>3e JAARGANG.
+
+<p>MOLIÈRE, Geleerde Dames. Vertaald door <hi rend=sc>W. J. Wendel</hi>. (W.B. no. 67).
+
+<p>J. A. SIMONS-MEES, Atie&apos;s Huwelijk<corr>.</corr> (N. B. no. XXIII).
+
+<p>ARISTOFANES, De Ridders. Vertaald door dr. <hi rend=sc>H. C. Muller</hi> (W.B. no. 70).
+
+
+<p><hi>Ter Perse:</hi>
+
+<p>J. BOUDIER-BAKKER, Het Hoogste Recht<corr>.</corr> (N. B.).
+
+
+<div1 id=backcover type=Cover>
+
+
+<p><figure id=spine>
+<figDesc>Oorspronkelijke rug.</figDesc>
+</figure>
+
+<p>&nbsp;
+
+<p><figure id=back>
+<figDesc>Oorspronkelijke achterkant.</figDesc>
+</figure>
+
+</div1>
+
+<divGen type=toc id=toc>
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[X] Check all pb-tags, and join lines
+[/] Move all footnotes in-line
+[X] Tag headers
+[X] Fix all [** Proofer comments]
+[X] Start all paragraphs with the p-tag
+[X] Change b, sc, g tags to hi tags with correct attributes.
+[X] Change tb tags to milestone tags.
+[X] Fix multiple spaces in a row
+[X] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[X] Add TEI header.
+[X] Fill in details in TEI header
+[X] Verify Author dates and add to TEI header.
+[/] Document on-line scan sources.
+[/] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[X] Add auto-generated colophon divGen tag.
+[/] Fill in reference to LOC record (http://catalog.loc.gov/).
+[/] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[X] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[X] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[X] Tag all verse.
+[X] Apply proper indentation: rend="indent(2)"
+
+Lists
+
+[X] Tag all lists.
+
+Tables
+
+[X] Format tables
+[/] Apply ditto-tags.
+
+Table of Contents
+
+[/] Format table(s) of contents
+[/] Link entries in table of contents
+[/] Verify each link
+[/] Compare with generated table of contents
+
+Images
+
+[X] Include all illustrations
+[X] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[/] Check for [Greek: ...] notation
+[X] Curlify quotes
+[X] Check for wrong quotes
+[X] Disambiguate single quotes, apostrophes, and primes.
+[X] Unwrap lines
+[X] Check for lines not unwrapped
+[X] Verify sequence of page-numbers
+[/] Handle fractions, such as 1/2.
+[X] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[X] Remove FIGURE notations
+[X] Verify empty lines between chapter headings
+[X] Verify empty lines around poetry and lists
+[X] Center poetry
+[X] Format title page
+[X] Remove Ads
+[X] Format Tables
+[/] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
